@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Nakkkkkul0130/Leetcode-problems/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [1019-squares-of-a-sorted-array](https://github.com/Nakkkkkul0130/Leetcode-problems/tree/master/1019-squares-of-a-sorted-array) |
 ## Two Pointers
 |  |
@@ -44,4 +45,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Nakkkkkul0130/Leetcode-problems/tree/master/0020-valid-parentheses) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Nakkkkkul0130/Leetcode-problems/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+## Greedy
+|  |
+| ------- |
+| [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Nakkkkkul0130/Leetcode-problems/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 <!---LeetCode Topics End-->
