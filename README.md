@@ -60,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0319-bulb-switcher](https://github.com/Nakkkkkul0130/Leetcode-problems/tree/master/0319-bulb-switcher) |
 | [1013-fibonacci-number](https://github.com/Nakkkkkul0130/Leetcode-problems/tree/master/1013-fibonacci-number) |
 ## Memoization
 |  |
@@ -69,4 +70,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1574-maximum-product-of-two-elements-in-an-array](https://github.com/Nakkkkkul0130/Leetcode-problems/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
+## Brainteaser
+|  |
+| ------- |
+| [0319-bulb-switcher](https://github.com/Nakkkkkul0130/Leetcode-problems/tree/master/0319-bulb-switcher) |
 <!---LeetCode Topics End-->
