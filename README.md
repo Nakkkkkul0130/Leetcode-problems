@@ -112,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0098-validate-binary-search-tree](https://github.com/Nakkkkkul0130/Leetcode-problems/tree/master/0098-validate-binary-search-tree) |
 | [0100-same-tree](https://github.com/Nakkkkkul0130/Leetcode-problems/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/Nakkkkkul0130/Leetcode-problems/tree/master/0101-symmetric-tree) |
+| [0104-maximum-depth-of-binary-tree](https://github.com/Nakkkkkul0130/Leetcode-problems/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Nakkkkkul0130/Leetcode-problems/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Nakkkkkul0130/Leetcode-problems/tree/master/0145-binary-tree-postorder-traversal) |
 | [0783-search-in-a-binary-search-tree](https://github.com/Nakkkkkul0130/Leetcode-problems/tree/master/0783-search-in-a-binary-search-tree) |
@@ -127,6 +128,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0098-validate-binary-search-tree](https://github.com/Nakkkkkul0130/Leetcode-problems/tree/master/0098-validate-binary-search-tree) |
 | [0100-same-tree](https://github.com/Nakkkkkul0130/Leetcode-problems/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/Nakkkkkul0130/Leetcode-problems/tree/master/0101-symmetric-tree) |
+| [0104-maximum-depth-of-binary-tree](https://github.com/Nakkkkkul0130/Leetcode-problems/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Nakkkkkul0130/Leetcode-problems/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Nakkkkkul0130/Leetcode-problems/tree/master/0145-binary-tree-postorder-traversal) |
 | [0783-search-in-a-binary-search-tree](https://github.com/Nakkkkkul0130/Leetcode-problems/tree/master/0783-search-in-a-binary-search-tree) |
@@ -137,6 +139,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0098-validate-binary-search-tree](https://github.com/Nakkkkkul0130/Leetcode-problems/tree/master/0098-validate-binary-search-tree) |
 | [0100-same-tree](https://github.com/Nakkkkkul0130/Leetcode-problems/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/Nakkkkkul0130/Leetcode-problems/tree/master/0101-symmetric-tree) |
+| [0104-maximum-depth-of-binary-tree](https://github.com/Nakkkkkul0130/Leetcode-problems/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Nakkkkkul0130/Leetcode-problems/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Nakkkkkul0130/Leetcode-problems/tree/master/0145-binary-tree-postorder-traversal) |
 ## Breadth-First Search
@@ -144,6 +147,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0100-same-tree](https://github.com/Nakkkkkul0130/Leetcode-problems/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/Nakkkkkul0130/Leetcode-problems/tree/master/0101-symmetric-tree) |
+| [0104-maximum-depth-of-binary-tree](https://github.com/Nakkkkkul0130/Leetcode-problems/tree/master/0104-maximum-depth-of-binary-tree) |
 ## Sliding Window
 |  |
 | ------- |
