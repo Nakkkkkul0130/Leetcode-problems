@@ -14,11 +14,10 @@ class Solution {
                 return dp[n];
             }
             // if(dp[n]==-1){
-                int i=1;
+                // int i=1;
                 int m=Integer.MAX_VALUE;
-                while(i*i<=n){
+                for(int i=1;i*i<=n;i++){
                     m=Math.min(m,helper(n-i*i));
-                    i++;
                 }
                 dp[n]=1+m;
                 return dp[n];
