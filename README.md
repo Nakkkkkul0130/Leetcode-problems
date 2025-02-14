@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/Nakkkkkul0130/Leetcode-problems/tree/master/0048-rotate-image) |
 | [0049-group-anagrams](https://github.com/Nakkkkkul0130/Leetcode-problems/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/Nakkkkkul0130/Leetcode-problems/tree/master/0053-maximum-subarray) |
+| [0054-spiral-matrix](https://github.com/Nakkkkkul0130/Leetcode-problems/tree/master/0054-spiral-matrix) |
 | [0074-search-a-2d-matrix](https://github.com/Nakkkkkul0130/Leetcode-problems/tree/master/0074-search-a-2d-matrix) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Nakkkkkul0130/Leetcode-problems/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Nakkkkkul0130/Leetcode-problems/tree/master/0153-find-minimum-in-rotated-sorted-array) |
@@ -116,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/Nakkkkkul0130/Leetcode-problems/tree/master/0054-spiral-matrix) |
 | [0258-add-digits](https://github.com/Nakkkkkul0130/Leetcode-problems/tree/master/0258-add-digits) |
 | [3447-clear-digits](https://github.com/Nakkkkkul0130/Leetcode-problems/tree/master/3447-clear-digits) |
 ## Number Theory
@@ -181,6 +183,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/Nakkkkkul0130/Leetcode-problems/tree/master/0048-rotate-image) |
+| [0054-spiral-matrix](https://github.com/Nakkkkkul0130/Leetcode-problems/tree/master/0054-spiral-matrix) |
 | [0074-search-a-2d-matrix](https://github.com/Nakkkkkul0130/Leetcode-problems/tree/master/0074-search-a-2d-matrix) |
 ## Divide and Conquer
 |  |
