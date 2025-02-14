@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0031-next-permutation](https://github.com/Nakkkkkul0130/Leetcode-problems/tree/master/0031-next-permutation) |
 | [0048-rotate-image](https://github.com/Nakkkkkul0130/Leetcode-problems/tree/master/0048-rotate-image) |
 | [0049-group-anagrams](https://github.com/Nakkkkkul0130/Leetcode-problems/tree/master/0049-group-anagrams) |
+| [0053-maximum-subarray](https://github.com/Nakkkkkul0130/Leetcode-problems/tree/master/0053-maximum-subarray) |
 | [0074-search-a-2d-matrix](https://github.com/Nakkkkkul0130/Leetcode-problems/tree/master/0074-search-a-2d-matrix) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Nakkkkkul0130/Leetcode-problems/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Nakkkkkul0130/Leetcode-problems/tree/master/0153-find-minimum-in-rotated-sorted-array) |
@@ -77,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/Nakkkkkul0130/Leetcode-problems/tree/master/0053-maximum-subarray) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Nakkkkkul0130/Leetcode-problems/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0279-perfect-squares](https://github.com/Nakkkkkul0130/Leetcode-problems/tree/master/0279-perfect-squares) |
 | [1013-fibonacci-number](https://github.com/Nakkkkkul0130/Leetcode-problems/tree/master/1013-fibonacci-number) |
@@ -180,4 +182,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0048-rotate-image](https://github.com/Nakkkkkul0130/Leetcode-problems/tree/master/0048-rotate-image) |
 | [0074-search-a-2d-matrix](https://github.com/Nakkkkkul0130/Leetcode-problems/tree/master/0074-search-a-2d-matrix) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0053-maximum-subarray](https://github.com/Nakkkkkul0130/Leetcode-problems/tree/master/0053-maximum-subarray) |
 <!---LeetCode Topics End-->
