@@ -4,9 +4,9 @@ class Solution {
         int right=height.length-1;
         int maxArea=Integer.MIN_VALUE;
         while(left<right){
-            int h=Math.min(height[left],height[right]);
-            int w = right-left;
-            maxArea=Math.max(maxArea,h*w);
+            int h = (height[left] < height[right]) ? height[left] : height[right];
+            int w = right - left;
+            maxArea = (h * w > maxArea) ? h * w : maxArea;
             if(height[left]<height[right]){
                 left++;
             }
