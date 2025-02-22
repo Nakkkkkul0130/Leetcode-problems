@@ -231,4 +231,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/Nakkkkkul0130/Leetcode-problems/tree/master/0238-product-of-array-except-self) |
+## Database
+|  |
+| ------- |
+| [0175-combine-two-tables](https://github.com/Nakkkkkul0130/Leetcode-problems/tree/master/0175-combine-two-tables) |
 <!---LeetCode Topics End-->
