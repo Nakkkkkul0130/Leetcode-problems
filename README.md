@@ -49,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1019-squares-of-a-sorted-array](https://github.com/Nakkkkkul0130/Leetcode-problems/tree/master/1019-squares-of-a-sorted-array) |
 | [1574-maximum-product-of-two-elements-in-an-array](https://github.com/Nakkkkkul0130/Leetcode-problems/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
 | [2210-find-target-indices-after-sorting-array](https://github.com/Nakkkkkul0130/Leetcode-problems/tree/master/2210-find-target-indices-after-sorting-array) |
+| [2265-partition-array-according-to-given-pivot](https://github.com/Nakkkkkul0130/Leetcode-problems/tree/master/2265-partition-array-according-to-given-pivot) |
 ## Two Pointers
 |  |
 | ------- |
@@ -61,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0350-intersection-of-two-arrays-ii](https://github.com/Nakkkkkul0130/Leetcode-problems/tree/master/0350-intersection-of-two-arrays-ii) |
 | [1019-squares-of-a-sorted-array](https://github.com/Nakkkkkul0130/Leetcode-problems/tree/master/1019-squares-of-a-sorted-array) |
 | [2216-delete-the-middle-node-of-a-linked-list](https://github.com/Nakkkkkul0130/Leetcode-problems/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
+| [2265-partition-array-according-to-given-pivot](https://github.com/Nakkkkkul0130/Leetcode-problems/tree/master/2265-partition-array-according-to-given-pivot) |
 ## Sorting
 |  |
 | ------- |
@@ -155,6 +157,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0059-spiral-matrix-ii](https://github.com/Nakkkkkul0130/Leetcode-problems/tree/master/0059-spiral-matrix-ii) |
 | [0258-add-digits](https://github.com/Nakkkkkul0130/Leetcode-problems/tree/master/0258-add-digits) |
 | [0898-transpose-matrix](https://github.com/Nakkkkkul0130/Leetcode-problems/tree/master/0898-transpose-matrix) |
+| [2265-partition-array-according-to-given-pivot](https://github.com/Nakkkkkul0130/Leetcode-problems/tree/master/2265-partition-array-according-to-given-pivot) |
 | [3447-clear-digits](https://github.com/Nakkkkkul0130/Leetcode-problems/tree/master/3447-clear-digits) |
 ## Number Theory
 |  |
