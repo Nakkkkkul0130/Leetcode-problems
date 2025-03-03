@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0021-merge-two-sorted-lists](https://github.com/Nakkkkkul0130/Leetcode-problems/tree/master/0021-merge-two-sorted-lists) |
 | [0143-reorder-list](https://github.com/Nakkkkkul0130/Leetcode-problems/tree/master/0143-reorder-list) |
 | [0206-reverse-linked-list](https://github.com/Nakkkkkul0130/Leetcode-problems/tree/master/0206-reverse-linked-list) |
+| [0342-power-of-four](https://github.com/Nakkkkkul0130/Leetcode-problems/tree/master/0342-power-of-four) |
 | [1013-fibonacci-number](https://github.com/Nakkkkkul0130/Leetcode-problems/tree/master/1013-fibonacci-number) |
 ## Array
 |  |
@@ -127,6 +128,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/Nakkkkkul0130/Leetcode-problems/tree/master/0268-missing-number) |
 | [0279-perfect-squares](https://github.com/Nakkkkkul0130/Leetcode-problems/tree/master/0279-perfect-squares) |
 | [0319-bulb-switcher](https://github.com/Nakkkkkul0130/Leetcode-problems/tree/master/0319-bulb-switcher) |
+| [0342-power-of-four](https://github.com/Nakkkkkul0130/Leetcode-problems/tree/master/0342-power-of-four) |
 | [1013-fibonacci-number](https://github.com/Nakkkkkul0130/Leetcode-problems/tree/master/1013-fibonacci-number) |
 ## Memoization
 |  |
@@ -255,6 +257,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0222-count-complete-tree-nodes](https://github.com/Nakkkkkul0130/Leetcode-problems/tree/master/0222-count-complete-tree-nodes) |
 | [0268-missing-number](https://github.com/Nakkkkkul0130/Leetcode-problems/tree/master/0268-missing-number) |
+| [0342-power-of-four](https://github.com/Nakkkkkul0130/Leetcode-problems/tree/master/0342-power-of-four) |
 ## Quickselect
 |  |
 | ------- |
