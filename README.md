@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0240-search-a-2d-matrix-ii](https://github.com/Nakkkkkul0130/Leetcode-problems/tree/master/0240-search-a-2d-matrix-ii) |
 | [0268-missing-number](https://github.com/Nakkkkkul0130/Leetcode-problems/tree/master/0268-missing-number) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Nakkkkkul0130/Leetcode-problems/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0898-transpose-matrix](https://github.com/Nakkkkkul0130/Leetcode-problems/tree/master/0898-transpose-matrix) |
 | [1019-squares-of-a-sorted-array](https://github.com/Nakkkkkul0130/Leetcode-problems/tree/master/1019-squares-of-a-sorted-array) |
 | [1574-maximum-product-of-two-elements-in-an-array](https://github.com/Nakkkkkul0130/Leetcode-problems/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
 | [2210-find-target-indices-after-sorting-array](https://github.com/Nakkkkkul0130/Leetcode-problems/tree/master/2210-find-target-indices-after-sorting-array) |
@@ -153,6 +154,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0054-spiral-matrix](https://github.com/Nakkkkkul0130/Leetcode-problems/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/Nakkkkkul0130/Leetcode-problems/tree/master/0059-spiral-matrix-ii) |
 | [0258-add-digits](https://github.com/Nakkkkkul0130/Leetcode-problems/tree/master/0258-add-digits) |
+| [0898-transpose-matrix](https://github.com/Nakkkkkul0130/Leetcode-problems/tree/master/0898-transpose-matrix) |
 | [3447-clear-digits](https://github.com/Nakkkkkul0130/Leetcode-problems/tree/master/3447-clear-digits) |
 ## Number Theory
 |  |
@@ -234,6 +236,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0073-set-matrix-zeroes](https://github.com/Nakkkkkul0130/Leetcode-problems/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/Nakkkkkul0130/Leetcode-problems/tree/master/0074-search-a-2d-matrix) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Nakkkkkul0130/Leetcode-problems/tree/master/0240-search-a-2d-matrix-ii) |
+| [0898-transpose-matrix](https://github.com/Nakkkkkul0130/Leetcode-problems/tree/master/0898-transpose-matrix) |
 ## Divide and Conquer
 |  |
 | ------- |
