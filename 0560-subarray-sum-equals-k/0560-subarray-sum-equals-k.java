@@ -5,8 +5,8 @@ class Solution {
         int ps=0;
         hm.put(0,1);
         
-        for(int i=0;i<nums.length;i++){
-            ps+=nums[i];
+        for(int num : nums){
+            ps+=num;
             if(hm.containsKey(ps-k)){
                 cnt+=hm.get(ps-k);
             }
