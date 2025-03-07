@@ -7,10 +7,12 @@ class Solution {
         
         for(int num : nums){
             ps+=num;
-            if(hm.containsKey(ps-k)){
-                cnt+=hm.get(ps-k);
-            }
-            hm.put(ps,hm.getOrDefault(ps,0)+1);
+            // if(hm.containsKey(ps-k)){
+            //     cnt+=hm.get(ps-k);
+            // }
+            // hm.put(ps,hm.getOrDefault(ps,0)+1);
+            cnt+=hm.getOrDefault((ps-k),0);
+            hm.put(ps,(hm.getOrDefault(ps,0)+1));
         }
         return cnt;
     
