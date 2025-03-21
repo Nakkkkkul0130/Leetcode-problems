@@ -58,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1019-squares-of-a-sorted-array](https://github.com/Nakkkkkul0130/Leetcode-problems/tree/master/1019-squares-of-a-sorted-array) |
 | [1335-maximum-candies-allocated-to-k-children](https://github.com/Nakkkkkul0130/Leetcode-problems/tree/master/1335-maximum-candies-allocated-to-k-children) |
 | [1574-maximum-product-of-two-elements-in-an-array](https://github.com/Nakkkkkul0130/Leetcode-problems/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
+| [2006-find-the-student-that-will-replace-the-chalk](https://github.com/Nakkkkkul0130/Leetcode-problems/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 | [2210-find-target-indices-after-sorting-array](https://github.com/Nakkkkkul0130/Leetcode-problems/tree/master/2210-find-target-indices-after-sorting-array) |
 | [2220-find-all-possible-recipes-from-given-supplies](https://github.com/Nakkkkkul0130/Leetcode-problems/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/Nakkkkkul0130/Leetcode-problems/tree/master/2265-partition-array-according-to-given-pivot) |
@@ -202,6 +203,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0350-intersection-of-two-arrays-ii](https://github.com/Nakkkkkul0130/Leetcode-problems/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Nakkkkkul0130/Leetcode-problems/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [1335-maximum-candies-allocated-to-k-children](https://github.com/Nakkkkkul0130/Leetcode-problems/tree/master/1335-maximum-candies-allocated-to-k-children) |
+| [2006-find-the-student-that-will-replace-the-chalk](https://github.com/Nakkkkkul0130/Leetcode-problems/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 | [2210-find-target-indices-after-sorting-array](https://github.com/Nakkkkkul0130/Leetcode-problems/tree/master/2210-find-target-indices-after-sorting-array) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/Nakkkkkul0130/Leetcode-problems/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 | [2665-minimum-time-to-repair-cars](https://github.com/Nakkkkkul0130/Leetcode-problems/tree/master/2665-minimum-time-to-repair-cars) |
@@ -214,6 +216,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0059-spiral-matrix-ii](https://github.com/Nakkkkkul0130/Leetcode-problems/tree/master/0059-spiral-matrix-ii) |
 | [0258-add-digits](https://github.com/Nakkkkkul0130/Leetcode-problems/tree/master/0258-add-digits) |
 | [0898-transpose-matrix](https://github.com/Nakkkkkul0130/Leetcode-problems/tree/master/0898-transpose-matrix) |
+| [2006-find-the-student-that-will-replace-the-chalk](https://github.com/Nakkkkkul0130/Leetcode-problems/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/Nakkkkkul0130/Leetcode-problems/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2551-apply-operations-to-an-array](https://github.com/Nakkkkkul0130/Leetcode-problems/tree/master/2551-apply-operations-to-an-array) |
 | [3447-clear-digits](https://github.com/Nakkkkkul0130/Leetcode-problems/tree/master/3447-clear-digits) |
@@ -335,6 +338,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0238-product-of-array-except-self](https://github.com/Nakkkkkul0130/Leetcode-problems/tree/master/0238-product-of-array-except-self) |
 | [0523-continuous-subarray-sum](https://github.com/Nakkkkkul0130/Leetcode-problems/tree/master/0523-continuous-subarray-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/Nakkkkkul0130/Leetcode-problems/tree/master/0560-subarray-sum-equals-k) |
+| [2006-find-the-student-that-will-replace-the-chalk](https://github.com/Nakkkkkul0130/Leetcode-problems/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/Nakkkkkul0130/Leetcode-problems/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 | [3643-zero-array-transformation-ii](https://github.com/Nakkkkkul0130/Leetcode-problems/tree/master/3643-zero-array-transformation-ii) |
 ## Database
