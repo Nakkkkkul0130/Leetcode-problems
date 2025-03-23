@@ -1,7 +1,7 @@
 class Solution {
     public int countPaths(int n, int[][] roads) {
         final int MOD = 1_000_000_007;
-                Map<Integer, List<int[]>> graph = new HashMap<>();
+        Map<Integer, List<int[]>> graph = new HashMap<>();
         for (int i = 0; i < n; i++) graph.put(i, new ArrayList<>());
         
         for (int[] road : roads) {
