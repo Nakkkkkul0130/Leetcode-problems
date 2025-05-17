@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0328-odd-even-linked-list](https://github.com/Nakkkkkul0130/Leetcode-problems/tree/master/0328-odd-even-linked-list) |
 | [0838-design-linked-list](https://github.com/Nakkkkkul0130/Leetcode-problems/tree/master/0838-design-linked-list) |
 | [0908-middle-of-the-linked-list](https://github.com/Nakkkkkul0130/Leetcode-problems/tree/master/0908-middle-of-the-linked-list) |
+| [1484-linked-list-in-binary-tree](https://github.com/Nakkkkkul0130/Leetcode-problems/tree/master/1484-linked-list-in-binary-tree) |
 | [2216-delete-the-middle-node-of-a-linked-list](https://github.com/Nakkkkkul0130/Leetcode-problems/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
 ## Recursion
 |  |
@@ -330,6 +331,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0784-insert-into-a-binary-search-tree](https://github.com/Nakkkkkul0130/Leetcode-problems/tree/master/0784-insert-into-a-binary-search-tree) |
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/Nakkkkkul0130/Leetcode-problems/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 | [1285-balance-a-binary-search-tree](https://github.com/Nakkkkkul0130/Leetcode-problems/tree/master/1285-balance-a-binary-search-tree) |
+| [1484-linked-list-in-binary-tree](https://github.com/Nakkkkkul0130/Leetcode-problems/tree/master/1484-linked-list-in-binary-tree) |
 ## Binary Search Tree
 |  |
 | ------- |
@@ -368,6 +370,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0784-insert-into-a-binary-search-tree](https://github.com/Nakkkkkul0130/Leetcode-problems/tree/master/0784-insert-into-a-binary-search-tree) |
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/Nakkkkkul0130/Leetcode-problems/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 | [1285-balance-a-binary-search-tree](https://github.com/Nakkkkkul0130/Leetcode-problems/tree/master/1285-balance-a-binary-search-tree) |
+| [1484-linked-list-in-binary-tree](https://github.com/Nakkkkkul0130/Leetcode-problems/tree/master/1484-linked-list-in-binary-tree) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -389,6 +392,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0404-sum-of-left-leaves](https://github.com/Nakkkkkul0130/Leetcode-problems/tree/master/0404-sum-of-left-leaves) |
 | [0543-diameter-of-binary-tree](https://github.com/Nakkkkkul0130/Leetcode-problems/tree/master/0543-diameter-of-binary-tree) |
 | [1285-balance-a-binary-search-tree](https://github.com/Nakkkkkul0130/Leetcode-problems/tree/master/1285-balance-a-binary-search-tree) |
+| [1484-linked-list-in-binary-tree](https://github.com/Nakkkkkul0130/Leetcode-problems/tree/master/1484-linked-list-in-binary-tree) |
 | [2793-count-the-number-of-complete-components](https://github.com/Nakkkkkul0130/Leetcode-problems/tree/master/2793-count-the-number-of-complete-components) |
 ## Breadth-First Search
 |  |
