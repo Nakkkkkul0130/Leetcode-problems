@@ -98,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2888-minimum-index-of-a-valid-split](https://github.com/Nakkkkkul0130/Leetcode-problems/tree/master/2888-minimum-index-of-a-valid-split) |
 | [3001-apply-operations-to-maximize-score](https://github.com/Nakkkkkul0130/Leetcode-problems/tree/master/3001-apply-operations-to-maximize-score) |
 | [3227-find-missing-and-repeated-values](https://github.com/Nakkkkkul0130/Leetcode-problems/tree/master/3227-find-missing-and-repeated-values) |
+| [3321-type-of-triangle](https://github.com/Nakkkkkul0130/Leetcode-problems/tree/master/3321-type-of-triangle) |
 | [3348-minimum-cost-walk-in-weighted-graph](https://github.com/Nakkkkkul0130/Leetcode-problems/tree/master/3348-minimum-cost-walk-in-weighted-graph) |
 | [3429-special-array-i](https://github.com/Nakkkkkul0130/Leetcode-problems/tree/master/3429-special-array-i) |
 | [3430-count-days-without-meetings](https://github.com/Nakkkkkul0130/Leetcode-problems/tree/master/3430-count-days-without-meetings) |
@@ -148,6 +149,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2681-put-marbles-in-bags](https://github.com/Nakkkkkul0130/Leetcode-problems/tree/master/2681-put-marbles-in-bags) |
 | [2888-minimum-index-of-a-valid-split](https://github.com/Nakkkkkul0130/Leetcode-problems/tree/master/2888-minimum-index-of-a-valid-split) |
 | [3001-apply-operations-to-maximize-score](https://github.com/Nakkkkkul0130/Leetcode-problems/tree/master/3001-apply-operations-to-maximize-score) |
+| [3321-type-of-triangle](https://github.com/Nakkkkkul0130/Leetcode-problems/tree/master/3321-type-of-triangle) |
 | [3430-count-days-without-meetings](https://github.com/Nakkkkkul0130/Leetcode-problems/tree/master/3430-count-days-without-meetings) |
 | [3657-check-if-grid-can-be-cut-into-sections](https://github.com/Nakkkkkul0130/Leetcode-problems/tree/master/3657-check-if-grid-can-be-cut-into-sections) |
 ## Hash Table
@@ -254,6 +256,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2649-count-total-number-of-colored-cells](https://github.com/Nakkkkkul0130/Leetcode-problems/tree/master/2649-count-total-number-of-colored-cells) |
 | [3001-apply-operations-to-maximize-score](https://github.com/Nakkkkkul0130/Leetcode-problems/tree/master/3001-apply-operations-to-maximize-score) |
 | [3227-find-missing-and-repeated-values](https://github.com/Nakkkkkul0130/Leetcode-problems/tree/master/3227-find-missing-and-repeated-values) |
+| [3321-type-of-triangle](https://github.com/Nakkkkkul0130/Leetcode-problems/tree/master/3321-type-of-triangle) |
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/Nakkkkkul0130/Leetcode-problems/tree/master/3629-total-characters-in-string-after-transformations-i) |
 ## Memoization
 |  |
