@@ -189,6 +189,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/Nakkkkkul0130/Leetcode-problems/tree/master/0020-valid-parentheses) |
 | [0049-group-anagrams](https://github.com/Nakkkkkul0130/Leetcode-problems/tree/master/0049-group-anagrams) |
 | [0179-largest-number](https://github.com/Nakkkkkul0130/Leetcode-problems/tree/master/0179-largest-number) |
+| [0257-binary-tree-paths](https://github.com/Nakkkkkul0130/Leetcode-problems/tree/master/0257-binary-tree-paths) |
 | [0768-partition-labels](https://github.com/Nakkkkkul0130/Leetcode-problems/tree/master/0768-partition-labels) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/Nakkkkkul0130/Leetcode-problems/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1781-check-if-two-string-arrays-are-equivalent](https://github.com/Nakkkkkul0130/Leetcode-problems/tree/master/1781-check-if-two-string-arrays-are-equivalent) |
@@ -335,6 +336,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0230-kth-smallest-element-in-a-bst](https://github.com/Nakkkkkul0130/Leetcode-problems/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Nakkkkkul0130/Leetcode-problems/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Nakkkkkul0130/Leetcode-problems/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+| [0257-binary-tree-paths](https://github.com/Nakkkkkul0130/Leetcode-problems/tree/master/0257-binary-tree-paths) |
 | [0404-sum-of-left-leaves](https://github.com/Nakkkkkul0130/Leetcode-problems/tree/master/0404-sum-of-left-leaves) |
 | [0450-delete-node-in-a-bst](https://github.com/Nakkkkkul0130/Leetcode-problems/tree/master/0450-delete-node-in-a-bst) |
 | [0543-diameter-of-binary-tree](https://github.com/Nakkkkkul0130/Leetcode-problems/tree/master/0543-diameter-of-binary-tree) |
@@ -375,6 +377,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0230-kth-smallest-element-in-a-bst](https://github.com/Nakkkkkul0130/Leetcode-problems/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Nakkkkkul0130/Leetcode-problems/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Nakkkkkul0130/Leetcode-problems/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+| [0257-binary-tree-paths](https://github.com/Nakkkkkul0130/Leetcode-problems/tree/master/0257-binary-tree-paths) |
 | [0404-sum-of-left-leaves](https://github.com/Nakkkkkul0130/Leetcode-problems/tree/master/0404-sum-of-left-leaves) |
 | [0450-delete-node-in-a-bst](https://github.com/Nakkkkkul0130/Leetcode-problems/tree/master/0450-delete-node-in-a-bst) |
 | [0543-diameter-of-binary-tree](https://github.com/Nakkkkkul0130/Leetcode-problems/tree/master/0543-diameter-of-binary-tree) |
@@ -402,6 +405,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0230-kth-smallest-element-in-a-bst](https://github.com/Nakkkkkul0130/Leetcode-problems/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Nakkkkkul0130/Leetcode-problems/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Nakkkkkul0130/Leetcode-problems/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+| [0257-binary-tree-paths](https://github.com/Nakkkkkul0130/Leetcode-problems/tree/master/0257-binary-tree-paths) |
 | [0404-sum-of-left-leaves](https://github.com/Nakkkkkul0130/Leetcode-problems/tree/master/0404-sum-of-left-leaves) |
 | [0543-diameter-of-binary-tree](https://github.com/Nakkkkkul0130/Leetcode-problems/tree/master/0543-diameter-of-binary-tree) |
 | [1285-balance-a-binary-search-tree](https://github.com/Nakkkkkul0130/Leetcode-problems/tree/master/1285-balance-a-binary-search-tree) |
@@ -536,6 +540,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0113-path-sum-ii](https://github.com/Nakkkkkul0130/Leetcode-problems/tree/master/0113-path-sum-ii) |
+| [0257-binary-tree-paths](https://github.com/Nakkkkkul0130/Leetcode-problems/tree/master/0257-binary-tree-paths) |
 ## Enumeration
 |  |
 | ------- |
