@@ -191,6 +191,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/Nakkkkkul0130/Leetcode-problems/tree/master/0049-group-anagrams) |
 | [0067-add-binary](https://github.com/Nakkkkkul0130/Leetcode-problems/tree/master/0067-add-binary) |
 | [0168-excel-sheet-column-title](https://github.com/Nakkkkkul0130/Leetcode-problems/tree/master/0168-excel-sheet-column-title) |
+| [0171-excel-sheet-column-number](https://github.com/Nakkkkkul0130/Leetcode-problems/tree/master/0171-excel-sheet-column-number) |
 | [0179-largest-number](https://github.com/Nakkkkkul0130/Leetcode-problems/tree/master/0179-largest-number) |
 | [0257-binary-tree-paths](https://github.com/Nakkkkkul0130/Leetcode-problems/tree/master/0257-binary-tree-paths) |
 | [0768-partition-labels](https://github.com/Nakkkkkul0130/Leetcode-problems/tree/master/0768-partition-labels) |
@@ -248,6 +249,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/Nakkkkkul0130/Leetcode-problems/tree/master/0048-rotate-image) |
 | [0067-add-binary](https://github.com/Nakkkkkul0130/Leetcode-problems/tree/master/0067-add-binary) |
 | [0168-excel-sheet-column-title](https://github.com/Nakkkkkul0130/Leetcode-problems/tree/master/0168-excel-sheet-column-title) |
+| [0171-excel-sheet-column-number](https://github.com/Nakkkkkul0130/Leetcode-problems/tree/master/0171-excel-sheet-column-number) |
 | [0258-add-digits](https://github.com/Nakkkkkul0130/Leetcode-problems/tree/master/0258-add-digits) |
 | [0263-ugly-number](https://github.com/Nakkkkkul0130/Leetcode-problems/tree/master/0263-ugly-number) |
 | [0268-missing-number](https://github.com/Nakkkkkul0130/Leetcode-problems/tree/master/0268-missing-number) |
