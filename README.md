@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0004-median-of-two-sorted-arrays](https://github.com/Nakkkkkul0130/Leetcode-problems/tree/master/0004-median-of-two-sorted-arrays) |
 | [0011-container-with-most-water](https://github.com/Nakkkkkul0130/Leetcode-problems/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/Nakkkkkul0130/Leetcode-problems/tree/master/0015-3sum) |
+| [0016-3sum-closest](https://github.com/Nakkkkkul0130/Leetcode-problems/tree/master/0016-3sum-closest) |
 | [0031-next-permutation](https://github.com/Nakkkkkul0130/Leetcode-problems/tree/master/0031-next-permutation) |
 | [0045-jump-game-ii](https://github.com/Nakkkkkul0130/Leetcode-problems/tree/master/0045-jump-game-ii) |
 | [0048-rotate-image](https://github.com/Nakkkkkul0130/Leetcode-problems/tree/master/0048-rotate-image) |
@@ -116,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0005-longest-palindromic-substring](https://github.com/Nakkkkkul0130/Leetcode-problems/tree/master/0005-longest-palindromic-substring) |
 | [0011-container-with-most-water](https://github.com/Nakkkkkul0130/Leetcode-problems/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/Nakkkkkul0130/Leetcode-problems/tree/master/0015-3sum) |
+| [0016-3sum-closest](https://github.com/Nakkkkkul0130/Leetcode-problems/tree/master/0016-3sum-closest) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/Nakkkkkul0130/Leetcode-problems/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0031-next-permutation](https://github.com/Nakkkkkul0130/Leetcode-problems/tree/master/0031-next-permutation) |
 | [0061-rotate-list](https://github.com/Nakkkkkul0130/Leetcode-problems/tree/master/0061-rotate-list) |
@@ -137,6 +139,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0015-3sum](https://github.com/Nakkkkkul0130/Leetcode-problems/tree/master/0015-3sum) |
+| [0016-3sum-closest](https://github.com/Nakkkkkul0130/Leetcode-problems/tree/master/0016-3sum-closest) |
 | [0049-group-anagrams](https://github.com/Nakkkkkul0130/Leetcode-problems/tree/master/0049-group-anagrams) |
 | [0179-largest-number](https://github.com/Nakkkkkul0130/Leetcode-problems/tree/master/0179-largest-number) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Nakkkkkul0130/Leetcode-problems/tree/master/0215-kth-largest-element-in-an-array) |
