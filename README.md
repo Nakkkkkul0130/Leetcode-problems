@@ -433,6 +433,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0543-diameter-of-binary-tree](https://github.com/Nakkkkkul0130/Leetcode-problems/tree/master/0543-diameter-of-binary-tree) |
 | [1285-balance-a-binary-search-tree](https://github.com/Nakkkkkul0130/Leetcode-problems/tree/master/1285-balance-a-binary-search-tree) |
 | [1484-linked-list-in-binary-tree](https://github.com/Nakkkkkul0130/Leetcode-problems/tree/master/1484-linked-list-in-binary-tree) |
+| [2121-find-if-path-exists-in-graph](https://github.com/Nakkkkkul0130/Leetcode-problems/tree/master/2121-find-if-path-exists-in-graph) |
 | [2793-count-the-number-of-complete-components](https://github.com/Nakkkkkul0130/Leetcode-problems/tree/master/2793-count-the-number-of-complete-components) |
 ## Breadth-First Search
 |  |
@@ -446,6 +447,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0199-binary-tree-right-side-view](https://github.com/Nakkkkkul0130/Leetcode-problems/tree/master/0199-binary-tree-right-side-view) |
 | [0279-perfect-squares](https://github.com/Nakkkkkul0130/Leetcode-problems/tree/master/0279-perfect-squares) |
 | [0404-sum-of-left-leaves](https://github.com/Nakkkkkul0130/Leetcode-problems/tree/master/0404-sum-of-left-leaves) |
+| [2121-find-if-path-exists-in-graph](https://github.com/Nakkkkkul0130/Leetcode-problems/tree/master/2121-find-if-path-exists-in-graph) |
 | [2646-kth-largest-sum-in-a-binary-tree](https://github.com/Nakkkkkul0130/Leetcode-problems/tree/master/2646-kth-largest-sum-in-a-binary-tree) |
 | [2793-count-the-number-of-complete-components](https://github.com/Nakkkkkul0130/Leetcode-problems/tree/master/2793-count-the-number-of-complete-components) |
 ## Sliding Window
@@ -523,6 +525,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/Nakkkkkul0130/Leetcode-problems/tree/master/0128-longest-consecutive-sequence) |
+| [2121-find-if-path-exists-in-graph](https://github.com/Nakkkkkul0130/Leetcode-problems/tree/master/2121-find-if-path-exists-in-graph) |
 | [2793-count-the-number-of-complete-components](https://github.com/Nakkkkkul0130/Leetcode-problems/tree/master/2793-count-the-number-of-complete-components) |
 | [3348-minimum-cost-walk-in-weighted-graph](https://github.com/Nakkkkkul0130/Leetcode-problems/tree/master/3348-minimum-cost-walk-in-weighted-graph) |
 ## Counting
@@ -542,6 +545,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2090-number-of-ways-to-arrive-at-destination](https://github.com/Nakkkkkul0130/Leetcode-problems/tree/master/2090-number-of-ways-to-arrive-at-destination) |
+| [2121-find-if-path-exists-in-graph](https://github.com/Nakkkkkul0130/Leetcode-problems/tree/master/2121-find-if-path-exists-in-graph) |
 | [2220-find-all-possible-recipes-from-given-supplies](https://github.com/Nakkkkkul0130/Leetcode-problems/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
 | [2793-count-the-number-of-complete-components](https://github.com/Nakkkkkul0130/Leetcode-problems/tree/master/2793-count-the-number-of-complete-components) |
 | [3348-minimum-cost-walk-in-weighted-graph](https://github.com/Nakkkkkul0130/Leetcode-problems/tree/master/3348-minimum-cost-walk-in-weighted-graph) |
