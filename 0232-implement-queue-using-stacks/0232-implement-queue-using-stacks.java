@@ -13,7 +13,7 @@ class MyQueue {
     
     public int pop() {
         peek();     // Making sure output has the correct elements
-        return output.pop();   //output.pop() also works here
+        return output.pop();   
     }
     
     public int peek() {
