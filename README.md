@@ -48,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0016-3sum-closest](https://github.com/Nakkkkkul0130/Leetcode-problems/tree/master/0016-3sum-closest) |
 | [0031-next-permutation](https://github.com/Nakkkkkul0130/Leetcode-problems/tree/master/0031-next-permutation) |
 | [0036-valid-sudoku](https://github.com/Nakkkkkul0130/Leetcode-problems/tree/master/0036-valid-sudoku) |
+| [0042-trapping-rain-water](https://github.com/Nakkkkkul0130/Leetcode-problems/tree/master/0042-trapping-rain-water) |
 | [0045-jump-game-ii](https://github.com/Nakkkkkul0130/Leetcode-problems/tree/master/0045-jump-game-ii) |
 | [0048-rotate-image](https://github.com/Nakkkkkul0130/Leetcode-problems/tree/master/0048-rotate-image) |
 | [0049-group-anagrams](https://github.com/Nakkkkkul0130/Leetcode-problems/tree/master/0049-group-anagrams) |
@@ -130,6 +131,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0016-3sum-closest](https://github.com/Nakkkkkul0130/Leetcode-problems/tree/master/0016-3sum-closest) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/Nakkkkkul0130/Leetcode-problems/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0031-next-permutation](https://github.com/Nakkkkkul0130/Leetcode-problems/tree/master/0031-next-permutation) |
+| [0042-trapping-rain-water](https://github.com/Nakkkkkul0130/Leetcode-problems/tree/master/0042-trapping-rain-water) |
 | [0061-rotate-list](https://github.com/Nakkkkkul0130/Leetcode-problems/tree/master/0061-rotate-list) |
 | [0141-linked-list-cycle](https://github.com/Nakkkkkul0130/Leetcode-problems/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/Nakkkkkul0130/Leetcode-problems/tree/master/0142-linked-list-cycle-ii) |
@@ -228,6 +230,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Nakkkkkul0130/Leetcode-problems/tree/master/0020-valid-parentheses) |
+| [0042-trapping-rain-water](https://github.com/Nakkkkkul0130/Leetcode-problems/tree/master/0042-trapping-rain-water) |
 | [0084-largest-rectangle-in-histogram](https://github.com/Nakkkkkul0130/Leetcode-problems/tree/master/0084-largest-rectangle-in-histogram) |
 | [0094-binary-tree-inorder-traversal](https://github.com/Nakkkkkul0130/Leetcode-problems/tree/master/0094-binary-tree-inorder-traversal) |
 | [0143-reorder-list](https://github.com/Nakkkkkul0130/Leetcode-problems/tree/master/0143-reorder-list) |
@@ -246,6 +249,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Nakkkkkul0130/Leetcode-problems/tree/master/0005-longest-palindromic-substring) |
+| [0042-trapping-rain-water](https://github.com/Nakkkkkul0130/Leetcode-problems/tree/master/0042-trapping-rain-water) |
 | [0045-jump-game-ii](https://github.com/Nakkkkkul0130/Leetcode-problems/tree/master/0045-jump-game-ii) |
 | [0053-maximum-subarray](https://github.com/Nakkkkkul0130/Leetcode-problems/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/Nakkkkkul0130/Leetcode-problems/tree/master/0055-jump-game) |
@@ -589,6 +593,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Monotonic Stack
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/Nakkkkkul0130/Leetcode-problems/tree/master/0042-trapping-rain-water) |
 | [0084-largest-rectangle-in-histogram](https://github.com/Nakkkkkul0130/Leetcode-problems/tree/master/0084-largest-rectangle-in-histogram) |
 | [0496-next-greater-element-i](https://github.com/Nakkkkkul0130/Leetcode-problems/tree/master/0496-next-greater-element-i) |
 | [0739-daily-temperatures](https://github.com/Nakkkkkul0130/Leetcode-problems/tree/master/0739-daily-temperatures) |
