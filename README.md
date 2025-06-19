@@ -104,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2220-find-all-possible-recipes-from-given-supplies](https://github.com/Nakkkkkul0130/Leetcode-problems/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/Nakkkkkul0130/Leetcode-problems/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2308-divide-array-into-equal-pairs](https://github.com/Nakkkkkul0130/Leetcode-problems/tree/master/2308-divide-array-into-equal-pairs) |
+| [2387-partition-array-such-that-maximum-difference-is-k](https://github.com/Nakkkkkul0130/Leetcode-problems/tree/master/2387-partition-array-such-that-maximum-difference-is-k) |
 | [2478-longest-nice-subarray](https://github.com/Nakkkkkul0130/Leetcode-problems/tree/master/2478-longest-nice-subarray) |
 | [2551-apply-operations-to-an-array](https://github.com/Nakkkkkul0130/Leetcode-problems/tree/master/2551-apply-operations-to-an-array) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/Nakkkkkul0130/Leetcode-problems/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
@@ -169,6 +170,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2210-find-target-indices-after-sorting-array](https://github.com/Nakkkkkul0130/Leetcode-problems/tree/master/2210-find-target-indices-after-sorting-array) |
 | [2215-finding-3-digit-even-numbers](https://github.com/Nakkkkkul0130/Leetcode-problems/tree/master/2215-finding-3-digit-even-numbers) |
 | [2284-smallest-value-of-the-rearranged-number](https://github.com/Nakkkkkul0130/Leetcode-problems/tree/master/2284-smallest-value-of-the-rearranged-number) |
+| [2387-partition-array-such-that-maximum-difference-is-k](https://github.com/Nakkkkkul0130/Leetcode-problems/tree/master/2387-partition-array-such-that-maximum-difference-is-k) |
 | [2646-kth-largest-sum-in-a-binary-tree](https://github.com/Nakkkkkul0130/Leetcode-problems/tree/master/2646-kth-largest-sum-in-a-binary-tree) |
 | [2681-put-marbles-in-bags](https://github.com/Nakkkkkul0130/Leetcode-problems/tree/master/2681-put-marbles-in-bags) |
 | [2888-minimum-index-of-a-valid-split](https://github.com/Nakkkkkul0130/Leetcode-problems/tree/master/2888-minimum-index-of-a-valid-split) |
@@ -281,6 +283,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0768-partition-labels](https://github.com/Nakkkkkul0130/Leetcode-problems/tree/master/0768-partition-labels) |
 | [0982-minimum-increment-to-make-array-unique](https://github.com/Nakkkkkul0130/Leetcode-problems/tree/master/0982-minimum-increment-to-make-array-unique) |
 | [1285-balance-a-binary-search-tree](https://github.com/Nakkkkkul0130/Leetcode-problems/tree/master/1285-balance-a-binary-search-tree) |
+| [2387-partition-array-such-that-maximum-difference-is-k](https://github.com/Nakkkkkul0130/Leetcode-problems/tree/master/2387-partition-array-such-that-maximum-difference-is-k) |
 | [2681-put-marbles-in-bags](https://github.com/Nakkkkkul0130/Leetcode-problems/tree/master/2681-put-marbles-in-bags) |
 | [3001-apply-operations-to-maximize-score](https://github.com/Nakkkkkul0130/Leetcode-problems/tree/master/3001-apply-operations-to-maximize-score) |
 | [3241-divide-array-into-arrays-with-max-difference](https://github.com/Nakkkkkul0130/Leetcode-problems/tree/master/3241-divide-array-into-arrays-with-max-difference) |
