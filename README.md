@@ -228,6 +228,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0179-largest-number](https://github.com/Nakkkkkul0130/Leetcode-problems/tree/master/0179-largest-number) |
 | [0257-binary-tree-paths](https://github.com/Nakkkkkul0130/Leetcode-problems/tree/master/0257-binary-tree-paths) |
 | [0768-partition-labels](https://github.com/Nakkkkkul0130/Leetcode-problems/tree/master/0768-partition-labels) |
+| [1250-longest-common-subsequence](https://github.com/Nakkkkkul0130/Leetcode-problems/tree/master/1250-longest-common-subsequence) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/Nakkkkkul0130/Leetcode-problems/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1781-check-if-two-string-arrays-are-equivalent](https://github.com/Nakkkkkul0130/Leetcode-problems/tree/master/1781-check-if-two-string-arrays-are-equivalent) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/Nakkkkkul0130/Leetcode-problems/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
@@ -275,6 +276,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0300-longest-increasing-subsequence](https://github.com/Nakkkkkul0130/Leetcode-problems/tree/master/0300-longest-increasing-subsequence) |
 | [0322-coin-change](https://github.com/Nakkkkkul0130/Leetcode-problems/tree/master/0322-coin-change) |
 | [1013-fibonacci-number](https://github.com/Nakkkkkul0130/Leetcode-problems/tree/master/1013-fibonacci-number) |
+| [1250-longest-common-subsequence](https://github.com/Nakkkkkul0130/Leetcode-problems/tree/master/1250-longest-common-subsequence) |
 | [2090-number-of-ways-to-arrive-at-destination](https://github.com/Nakkkkkul0130/Leetcode-problems/tree/master/2090-number-of-ways-to-arrive-at-destination) |
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/Nakkkkkul0130/Leetcode-problems/tree/master/3629-total-characters-in-string-after-transformations-i) |
 ## Greedy
