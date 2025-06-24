@@ -108,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2220-find-all-possible-recipes-from-given-supplies](https://github.com/Nakkkkkul0130/Leetcode-problems/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/Nakkkkkul0130/Leetcode-problems/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2308-divide-array-into-equal-pairs](https://github.com/Nakkkkkul0130/Leetcode-problems/tree/master/2308-divide-array-into-equal-pairs) |
+| [2320-find-all-k-distant-indices-in-an-array](https://github.com/Nakkkkkul0130/Leetcode-problems/tree/master/2320-find-all-k-distant-indices-in-an-array) |
 | [2387-partition-array-such-that-maximum-difference-is-k](https://github.com/Nakkkkkul0130/Leetcode-problems/tree/master/2387-partition-array-such-that-maximum-difference-is-k) |
 | [2478-longest-nice-subarray](https://github.com/Nakkkkkul0130/Leetcode-problems/tree/master/2478-longest-nice-subarray) |
 | [2551-apply-operations-to-an-array](https://github.com/Nakkkkkul0130/Leetcode-problems/tree/master/2551-apply-operations-to-an-array) |
@@ -153,6 +154,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1019-squares-of-a-sorted-array](https://github.com/Nakkkkkul0130/Leetcode-problems/tree/master/1019-squares-of-a-sorted-array) |
 | [2216-delete-the-middle-node-of-a-linked-list](https://github.com/Nakkkkkul0130/Leetcode-problems/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/Nakkkkkul0130/Leetcode-problems/tree/master/2265-partition-array-according-to-given-pivot) |
+| [2320-find-all-k-distant-indices-in-an-array](https://github.com/Nakkkkkul0130/Leetcode-problems/tree/master/2320-find-all-k-distant-indices-in-an-array) |
 | [2551-apply-operations-to-an-array](https://github.com/Nakkkkkul0130/Leetcode-problems/tree/master/2551-apply-operations-to-an-array) |
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/Nakkkkkul0130/Leetcode-problems/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
 ## Sorting
