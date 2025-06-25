@@ -272,6 +272,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0045-jump-game-ii](https://github.com/Nakkkkkul0130/Leetcode-problems/tree/master/0045-jump-game-ii) |
 | [0053-maximum-subarray](https://github.com/Nakkkkkul0130/Leetcode-problems/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/Nakkkkkul0130/Leetcode-problems/tree/master/0055-jump-game) |
+| [0062-unique-paths](https://github.com/Nakkkkkul0130/Leetcode-problems/tree/master/0062-unique-paths) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Nakkkkkul0130/Leetcode-problems/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/Nakkkkkul0130/Leetcode-problems/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
 | [0152-maximum-product-subarray](https://github.com/Nakkkkkul0130/Leetcode-problems/tree/master/0152-maximum-product-subarray) |
@@ -304,6 +305,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0002-add-two-numbers](https://github.com/Nakkkkkul0130/Leetcode-problems/tree/master/0002-add-two-numbers) |
 | [0048-rotate-image](https://github.com/Nakkkkkul0130/Leetcode-problems/tree/master/0048-rotate-image) |
+| [0062-unique-paths](https://github.com/Nakkkkkul0130/Leetcode-problems/tree/master/0062-unique-paths) |
 | [0067-add-binary](https://github.com/Nakkkkkul0130/Leetcode-problems/tree/master/0067-add-binary) |
 | [0168-excel-sheet-column-title](https://github.com/Nakkkkkul0130/Leetcode-problems/tree/master/0168-excel-sheet-column-title) |
 | [0171-excel-sheet-column-number](https://github.com/Nakkkkkul0130/Leetcode-problems/tree/master/0171-excel-sheet-column-number) |
@@ -658,4 +660,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/Nakkkkkul0130/Leetcode-problems/tree/master/0239-sliding-window-maximum) |
+## Combinatorics
+|  |
+| ------- |
+| [0062-unique-paths](https://github.com/Nakkkkkul0130/Leetcode-problems/tree/master/0062-unique-paths) |
 <!---LeetCode Topics End-->
