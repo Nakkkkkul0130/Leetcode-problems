@@ -26,33 +26,41 @@
 class Solution {
     private ListNode current;
     public TreeNode sortedListToBST(ListNode head) {
-        int size = getlen(head);
-        current = head;
-        return buildbst(0, size-1);
-        
-    }
-    private int getlen(ListNode head){
-        int count=0;
+        // int size = getlen(head);
+        // current = head;
+
+        List<Integer> al = new ArrayList<>();
         while(head!=null){
-            count++;
+            al.add(head.val);
             head=head.next;
         }
-        return count;
+        return buildbst(al, 0, al.size()-1);
+        
     }
-    private TreeNode buildbst(int left, int right){
+    // private int getlen(ListNode head){
+    //     int count=0;
+    //     while(head!=null){
+    //         count++;
+    //         head=head.next;
+    //     }
+    //     return count;
+    // }
+    private TreeNode buildbst(List<Integer> al, int left, int right){
         if(left>right){
             return null;
         }
         int mid = left+(right-left)/2;
-        TreeNode leftchild = buildbst(left, mid-1);
+        // TreeNode leftchild = buildbst(left, mid-1);
 
-        TreeNode root = new TreeNode(current.val);
-        current=current.next;
+        TreeNode root = new TreeNode(al.get(mid));
+        // current=current.next;
 
-        TreeNode rightchild = buildbst(mid+1, right);
+        // TreeNode rightchild = buildbst(mid+1, right);
 
-        root.left = leftchild;
-        root.right = rightchild;
+        // root.left = leftchild;
+        // root.right = rightchild;
+        root.left = buildbst(al,left,mid-1);
+        root.right = buildbst(al,mid+1,right);
         return root;
     }
 }
