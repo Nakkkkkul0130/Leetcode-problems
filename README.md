@@ -59,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0055-jump-game](https://github.com/Nakkkkkul0130/Leetcode-problems/tree/master/0055-jump-game) |
 | [0059-spiral-matrix-ii](https://github.com/Nakkkkkul0130/Leetcode-problems/tree/master/0059-spiral-matrix-ii) |
 | [0063-unique-paths-ii](https://github.com/Nakkkkkul0130/Leetcode-problems/tree/master/0063-unique-paths-ii) |
+| [0064-minimum-path-sum](https://github.com/Nakkkkkul0130/Leetcode-problems/tree/master/0064-minimum-path-sum) |
 | [0073-set-matrix-zeroes](https://github.com/Nakkkkkul0130/Leetcode-problems/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/Nakkkkkul0130/Leetcode-problems/tree/master/0074-search-a-2d-matrix) |
 | [0084-largest-rectangle-in-histogram](https://github.com/Nakkkkkul0130/Leetcode-problems/tree/master/0084-largest-rectangle-in-histogram) |
@@ -281,6 +282,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0055-jump-game](https://github.com/Nakkkkkul0130/Leetcode-problems/tree/master/0055-jump-game) |
 | [0062-unique-paths](https://github.com/Nakkkkkul0130/Leetcode-problems/tree/master/0062-unique-paths) |
 | [0063-unique-paths-ii](https://github.com/Nakkkkkul0130/Leetcode-problems/tree/master/0063-unique-paths-ii) |
+| [0064-minimum-path-sum](https://github.com/Nakkkkkul0130/Leetcode-problems/tree/master/0064-minimum-path-sum) |
 | [0095-unique-binary-search-trees-ii](https://github.com/Nakkkkkul0130/Leetcode-problems/tree/master/0095-unique-binary-search-trees-ii) |
 | [0096-unique-binary-search-trees](https://github.com/Nakkkkkul0130/Leetcode-problems/tree/master/0096-unique-binary-search-trees) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Nakkkkkul0130/Leetcode-problems/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
@@ -563,6 +565,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0054-spiral-matrix](https://github.com/Nakkkkkul0130/Leetcode-problems/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/Nakkkkkul0130/Leetcode-problems/tree/master/0059-spiral-matrix-ii) |
 | [0063-unique-paths-ii](https://github.com/Nakkkkkul0130/Leetcode-problems/tree/master/0063-unique-paths-ii) |
+| [0064-minimum-path-sum](https://github.com/Nakkkkkul0130/Leetcode-problems/tree/master/0064-minimum-path-sum) |
 | [0073-set-matrix-zeroes](https://github.com/Nakkkkkul0130/Leetcode-problems/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/Nakkkkkul0130/Leetcode-problems/tree/master/0074-search-a-2d-matrix) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Nakkkkkul0130/Leetcode-problems/tree/master/0240-search-a-2d-matrix-ii) |
