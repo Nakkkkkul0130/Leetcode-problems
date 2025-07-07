@@ -103,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/Nakkkkkul0130/Leetcode-problems/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 | [1293-three-consecutive-odds](https://github.com/Nakkkkkul0130/Leetcode-problems/tree/master/1293-three-consecutive-odds) |
 | [1335-maximum-candies-allocated-to-k-children](https://github.com/Nakkkkkul0130/Leetcode-problems/tree/master/1335-maximum-candies-allocated-to-k-children) |
+| [1478-maximum-number-of-events-that-can-be-attended](https://github.com/Nakkkkkul0130/Leetcode-problems/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/Nakkkkkul0130/Leetcode-problems/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1574-maximum-product-of-two-elements-in-an-array](https://github.com/Nakkkkkul0130/Leetcode-problems/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
 | [1781-check-if-two-string-arrays-are-equivalent](https://github.com/Nakkkkkul0130/Leetcode-problems/tree/master/1781-check-if-two-string-arrays-are-equivalent) |
@@ -185,6 +186,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0658-find-k-closest-elements](https://github.com/Nakkkkkul0130/Leetcode-problems/tree/master/0658-find-k-closest-elements) |
 | [0982-minimum-increment-to-make-array-unique](https://github.com/Nakkkkkul0130/Leetcode-problems/tree/master/0982-minimum-increment-to-make-array-unique) |
 | [1019-squares-of-a-sorted-array](https://github.com/Nakkkkkul0130/Leetcode-problems/tree/master/1019-squares-of-a-sorted-array) |
+| [1478-maximum-number-of-events-that-can-be-attended](https://github.com/Nakkkkkul0130/Leetcode-problems/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 | [1574-maximum-product-of-two-elements-in-an-array](https://github.com/Nakkkkkul0130/Leetcode-problems/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/Nakkkkkul0130/Leetcode-problems/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [2210-find-target-indices-after-sorting-array](https://github.com/Nakkkkkul0130/Leetcode-problems/tree/master/2210-find-target-indices-after-sorting-array) |
@@ -323,6 +325,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0768-partition-labels](https://github.com/Nakkkkkul0130/Leetcode-problems/tree/master/0768-partition-labels) |
 | [0982-minimum-increment-to-make-array-unique](https://github.com/Nakkkkkul0130/Leetcode-problems/tree/master/0982-minimum-increment-to-make-array-unique) |
 | [1285-balance-a-binary-search-tree](https://github.com/Nakkkkkul0130/Leetcode-problems/tree/master/1285-balance-a-binary-search-tree) |
+| [1478-maximum-number-of-events-that-can-be-attended](https://github.com/Nakkkkkul0130/Leetcode-problems/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 | [2387-partition-array-such-that-maximum-difference-is-k](https://github.com/Nakkkkkul0130/Leetcode-problems/tree/master/2387-partition-array-such-that-maximum-difference-is-k) |
 | [2681-put-marbles-in-bags](https://github.com/Nakkkkkul0130/Leetcode-problems/tree/master/2681-put-marbles-in-bags) |
 | [3001-apply-operations-to-maximize-score](https://github.com/Nakkkkkul0130/Leetcode-problems/tree/master/3001-apply-operations-to-maximize-score) |
@@ -372,6 +375,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0239-sliding-window-maximum](https://github.com/Nakkkkkul0130/Leetcode-problems/tree/master/0239-sliding-window-maximum) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Nakkkkkul0130/Leetcode-problems/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0658-find-k-closest-elements](https://github.com/Nakkkkkul0130/Leetcode-problems/tree/master/0658-find-k-closest-elements) |
+| [1478-maximum-number-of-events-that-can-be-attended](https://github.com/Nakkkkkul0130/Leetcode-problems/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 | [1574-maximum-product-of-two-elements-in-an-array](https://github.com/Nakkkkkul0130/Leetcode-problems/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
 | [2681-put-marbles-in-bags](https://github.com/Nakkkkkul0130/Leetcode-problems/tree/master/2681-put-marbles-in-bags) |
 ## Brainteaser
