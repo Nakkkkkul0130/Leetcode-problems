@@ -1,45 +1,33 @@
 class FindSumPairs {
-    private int[] nums1;
-    private int[] nums2;
-    private Map<Integer,Integer> freq;
+    private int[] n1, n2;
+    private Map<Integer, Integer> map;
 
     public FindSumPairs(int[] nums1, int[] nums2) {
-        this.nums1=nums1;
-        this.nums2=nums2;
-
-        freq = new HashMap<>();
-        for(int num : nums2){
-            freq.put(num, freq.getOrDefault(num,0)+1);
+        n1 = nums1;
+        n2 = nums2;
+        map = new HashMap<>();
+        for (int x : n2) {
+            map.put(x, map.getOrDefault(x, 0) + 1);
         }
-
     }
-    
+
     public void add(int index, int val) {
-        int oldVal = nums2[index];
-        int newVal = oldVal + val;
-        freq.put(oldVal, freq.get(oldVal)-1);
-        if(freq.get(oldVal)==0){
-            freq.remove(oldVal);
+        int oldVal = n2[index];
+        map.put(oldVal, map.get(oldVal) - 1);
+        if (map.get(oldVal) == 0) {
+            map.remove(oldVal); // Clean up zero count
         }
-        nums2[index]=newVal;
-        freq.put(newVal,freq.getOrDefault(newVal,0)+1);
-        
+
+        n2[index] += val;
+        int newVal = n2[index];
+        map.put(newVal, map.getOrDefault(newVal, 0) + 1);
     }
-    
+
     public int count(int tot) {
-        int res = 0;
-        for(int a : nums1){
-            int b = tot-a;
-            res+=freq.getOrDefault(b,0);
+        int count = 0;
+        for (int x : n1) {
+            count += map.getOrDefault(tot - x, 0);
         }
-        return res;
-        
+        return count;
     }
 }
-
-/**
- * Your FindSumPairs object will be instantiated and called as such:
- * FindSumPairs obj = new FindSumPairs(nums1, nums2);
- * obj.add(index,val);
- * int param_2 = obj.count(tot);
- */
