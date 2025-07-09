@@ -10,7 +10,8 @@
  */
 class Solution {
     public ListNode deleteDuplicates(ListNode head) {
-        ListNode dummy = new ListNode(0,head);
+        ListNode dummy = new ListNode(0);
+        dummy.next=head;
         ListNode prev = dummy;
         
         while(head!=null){
