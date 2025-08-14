@@ -271,6 +271,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1781-check-if-two-string-arrays-are-equivalent](https://github.com/Nakkkkkul0130/Leetcode-problems/tree/master/1781-check-if-two-string-arrays-are-equivalent) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/Nakkkkkul0130/Leetcode-problems/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 | [2220-find-all-possible-recipes-from-given-supplies](https://github.com/Nakkkkkul0130/Leetcode-problems/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
+| [2346-largest-3-same-digit-number-in-string](https://github.com/Nakkkkkul0130/Leetcode-problems/tree/master/2346-largest-3-same-digit-number-in-string) |
 | [2463-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/Nakkkkkul0130/Leetcode-problems/tree/master/2463-minimum-recolors-to-get-k-consecutive-black-blocks) |
 | [3447-clear-digits](https://github.com/Nakkkkkul0130/Leetcode-problems/tree/master/3447-clear-digits) |
 | [3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii](https://github.com/Nakkkkkul0130/Leetcode-problems/tree/master/3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii) |
