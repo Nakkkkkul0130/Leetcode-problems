@@ -16,18 +16,17 @@
 class Solution {
     public boolean isSymmetric(TreeNode root) {
         if(root==null){
-            return true;
-        }
-        return isequal(root.left,root.right);
-        
-    }
-    private boolean isequal(TreeNode t1, TreeNode t2){
-        if(t1==null && t2==null){
-            return true;
-        }
-        if(t1==null || t2==null){
             return false;
         }
-        return (t1.val==t2.val) && isequal(t1.left,t2.right) && isequal(t1.right,t2.left);
+        return mirror(root.left, root.right);
+    }
+    public boolean mirror(TreeNode p1, TreeNode p2){
+        if(p1==null && p2==null){
+            return true;
+        }
+        if(p1==null || p2==null){
+            return false;
+        }
+        return (p1.val==p2.val) && mirror(p1.left,p2.right) && mirror(p1.right, p2.left);
     }
 }
