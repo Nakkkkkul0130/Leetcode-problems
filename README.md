@@ -107,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0982-minimum-increment-to-make-array-unique](https://github.com/Nakkkkkul0130/Leetcode-problems/tree/master/0982-minimum-increment-to-make-array-unique) |
 | [1016-subarray-sums-divisible-by-k](https://github.com/Nakkkkkul0130/Leetcode-problems/tree/master/1016-subarray-sums-divisible-by-k) |
 | [1019-squares-of-a-sorted-array](https://github.com/Nakkkkkul0130/Leetcode-problems/tree/master/1019-squares-of-a-sorted-array) |
+| [1039-find-the-town-judge](https://github.com/Nakkkkkul0130/Leetcode-problems/tree/master/1039-find-the-town-judge) |
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/Nakkkkkul0130/Leetcode-problems/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 | [1293-three-consecutive-odds](https://github.com/Nakkkkkul0130/Leetcode-problems/tree/master/1293-three-consecutive-odds) |
 | [1335-maximum-candies-allocated-to-k-children](https://github.com/Nakkkkkul0130/Leetcode-problems/tree/master/1335-maximum-candies-allocated-to-k-children) |
@@ -236,6 +237,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/Nakkkkkul0130/Leetcode-problems/tree/master/0560-subarray-sum-equals-k) |
 | [0768-partition-labels](https://github.com/Nakkkkkul0130/Leetcode-problems/tree/master/0768-partition-labels) |
 | [1016-subarray-sums-divisible-by-k](https://github.com/Nakkkkkul0130/Leetcode-problems/tree/master/1016-subarray-sums-divisible-by-k) |
+| [1039-find-the-town-judge](https://github.com/Nakkkkkul0130/Leetcode-problems/tree/master/1039-find-the-town-judge) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/Nakkkkkul0130/Leetcode-problems/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/Nakkkkkul0130/Leetcode-problems/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/Nakkkkkul0130/Leetcode-problems/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
@@ -717,6 +719,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0133-clone-graph](https://github.com/Nakkkkkul0130/Leetcode-problems/tree/master/0133-clone-graph) |
 | [0207-course-schedule](https://github.com/Nakkkkkul0130/Leetcode-problems/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/Nakkkkkul0130/Leetcode-problems/tree/master/0210-course-schedule-ii) |
+| [1039-find-the-town-judge](https://github.com/Nakkkkkul0130/Leetcode-problems/tree/master/1039-find-the-town-judge) |
 | [2090-number-of-ways-to-arrive-at-destination](https://github.com/Nakkkkkul0130/Leetcode-problems/tree/master/2090-number-of-ways-to-arrive-at-destination) |
 | [2121-find-if-path-exists-in-graph](https://github.com/Nakkkkkul0130/Leetcode-problems/tree/master/2121-find-if-path-exists-in-graph) |
 | [2220-find-all-possible-recipes-from-given-supplies](https://github.com/Nakkkkkul0130/Leetcode-problems/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
