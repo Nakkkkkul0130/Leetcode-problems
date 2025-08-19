@@ -129,6 +129,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2308-divide-array-into-equal-pairs](https://github.com/Nakkkkkul0130/Leetcode-problems/tree/master/2308-divide-array-into-equal-pairs) |
 | [2320-find-all-k-distant-indices-in-an-array](https://github.com/Nakkkkkul0130/Leetcode-problems/tree/master/2320-find-all-k-distant-indices-in-an-array) |
 | [2387-partition-array-such-that-maximum-difference-is-k](https://github.com/Nakkkkkul0130/Leetcode-problems/tree/master/2387-partition-array-such-that-maximum-difference-is-k) |
+| [2432-number-of-zero-filled-subarrays](https://github.com/Nakkkkkul0130/Leetcode-problems/tree/master/2432-number-of-zero-filled-subarrays) |
 | [2478-longest-nice-subarray](https://github.com/Nakkkkkul0130/Leetcode-problems/tree/master/2478-longest-nice-subarray) |
 | [2551-apply-operations-to-an-array](https://github.com/Nakkkkkul0130/Leetcode-problems/tree/master/2551-apply-operations-to-an-array) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/Nakkkkkul0130/Leetcode-problems/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
@@ -372,6 +373,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2106-find-greatest-common-divisor-of-array](https://github.com/Nakkkkkul0130/Leetcode-problems/tree/master/2106-find-greatest-common-divisor-of-array) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/Nakkkkkul0130/Leetcode-problems/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [2284-smallest-value-of-the-rearranged-number](https://github.com/Nakkkkkul0130/Leetcode-problems/tree/master/2284-smallest-value-of-the-rearranged-number) |
+| [2432-number-of-zero-filled-subarrays](https://github.com/Nakkkkkul0130/Leetcode-problems/tree/master/2432-number-of-zero-filled-subarrays) |
 | [2610-closest-prime-numbers-in-range](https://github.com/Nakkkkkul0130/Leetcode-problems/tree/master/2610-closest-prime-numbers-in-range) |
 | [2649-count-total-number-of-colored-cells](https://github.com/Nakkkkkul0130/Leetcode-problems/tree/master/2649-count-total-number-of-colored-cells) |
 | [3001-apply-operations-to-maximize-score](https://github.com/Nakkkkkul0130/Leetcode-problems/tree/master/3001-apply-operations-to-maximize-score) |
