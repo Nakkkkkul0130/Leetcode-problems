@@ -283,6 +283,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/Nakkkkkul0130/Leetcode-problems/tree/master/0242-valid-anagram) |
 | [0257-binary-tree-paths](https://github.com/Nakkkkkul0130/Leetcode-problems/tree/master/0257-binary-tree-paths) |
 | [0443-string-compression](https://github.com/Nakkkkkul0130/Leetcode-problems/tree/master/0443-string-compression) |
+| [0459-repeated-substring-pattern](https://github.com/Nakkkkkul0130/Leetcode-problems/tree/master/0459-repeated-substring-pattern) |
 | [0768-partition-labels](https://github.com/Nakkkkkul0130/Leetcode-problems/tree/master/0768-partition-labels) |
 | [1250-longest-common-subsequence](https://github.com/Nakkkkkul0130/Leetcode-problems/tree/master/1250-longest-common-subsequence) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/Nakkkkkul0130/Leetcode-problems/tree/master/1460-number-of-substrings-containing-all-three-characters) |
@@ -820,4 +821,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/Nakkkkkul0130/Leetcode-problems/tree/master/0014-longest-common-prefix) |
+## String Matching
+|  |
+| ------- |
+| [0459-repeated-substring-pattern](https://github.com/Nakkkkkul0130/Leetcode-problems/tree/master/0459-repeated-substring-pattern) |
 <!---LeetCode Topics End-->
