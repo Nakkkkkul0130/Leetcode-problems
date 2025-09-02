@@ -15,15 +15,16 @@ class Solution {
             al.add(head.val);
             head=head.next;
         }
-        int start = 0;
-        int end = al.size()-1;
-        while(start<end){
-            if(!al.get(start).equals(al.get(end))){
+        int s = 0;
+        int e = al.size()-1;
+        while(s<e){
+            if(al.get(s)!=al.get(e)){
                 return false;
             }
-            start++;
-            end--;
+            s++;
+            e--;
         }
         return true;
+
     }
 }
