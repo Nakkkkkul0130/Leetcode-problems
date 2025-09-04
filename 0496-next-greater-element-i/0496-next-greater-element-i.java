@@ -1,23 +1,21 @@
 class Solution {
     public int[] nextGreaterElement(int[] nums1, int[] nums2) {
-        int n = nums1.length;
-        int m = nums2.length;
-        int[] res = new int[n];
-        for (int i = 0; i < n; i++) {
-            res[i] = -1;
-            int found = -1;
-            for (int j = 0; j < m; j++) {
-                if (nums1[i] == nums2[j]) {
-                    found = j;
+        int[] res = new int[nums1.length];
+        int found=-1;
+        for(int i=0;i<nums1.length;i++){
+            res[i]=-1;
+            for(int j=0;j<nums2.length;j++){
+                if(nums1[i]==nums2[j]){
+                    found=j;
                     break;
-                }
             }
-            for (int k = found + 1; k < m; k++) {
-                if (nums2[k] > nums1[i]) {
+            }
+            for(int k=found+1;k<nums2.length;k++){
+                if(nums2[k]>nums1[i]){
                     res[i] = nums2[k];
                     break;
-                }
             }
+        }
         }
         return res;
     }
