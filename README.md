@@ -338,6 +338,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0062-unique-paths](https://github.com/Nakkkkkul0130/Leetcode-problems/tree/master/0062-unique-paths) |
 | [0063-unique-paths-ii](https://github.com/Nakkkkkul0130/Leetcode-problems/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/Nakkkkkul0130/Leetcode-problems/tree/master/0064-minimum-path-sum) |
+| [0070-climbing-stairs](https://github.com/Nakkkkkul0130/Leetcode-problems/tree/master/0070-climbing-stairs) |
 | [0095-unique-binary-search-trees-ii](https://github.com/Nakkkkkul0130/Leetcode-problems/tree/master/0095-unique-binary-search-trees-ii) |
 | [0096-unique-binary-search-trees](https://github.com/Nakkkkkul0130/Leetcode-problems/tree/master/0096-unique-binary-search-trees) |
 | [0120-triangle](https://github.com/Nakkkkkul0130/Leetcode-problems/tree/master/0120-triangle) |
@@ -379,6 +380,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/Nakkkkkul0130/Leetcode-problems/tree/master/0048-rotate-image) |
 | [0062-unique-paths](https://github.com/Nakkkkkul0130/Leetcode-problems/tree/master/0062-unique-paths) |
 | [0067-add-binary](https://github.com/Nakkkkkul0130/Leetcode-problems/tree/master/0067-add-binary) |
+| [0070-climbing-stairs](https://github.com/Nakkkkkul0130/Leetcode-problems/tree/master/0070-climbing-stairs) |
 | [0096-unique-binary-search-trees](https://github.com/Nakkkkkul0130/Leetcode-problems/tree/master/0096-unique-binary-search-trees) |
 | [0168-excel-sheet-column-title](https://github.com/Nakkkkkul0130/Leetcode-problems/tree/master/0168-excel-sheet-column-title) |
 | [0171-excel-sheet-column-number](https://github.com/Nakkkkkul0130/Leetcode-problems/tree/master/0171-excel-sheet-column-number) |
@@ -411,6 +413,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Memoization
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/Nakkkkkul0130/Leetcode-problems/tree/master/0070-climbing-stairs) |
 | [1013-fibonacci-number](https://github.com/Nakkkkkul0130/Leetcode-problems/tree/master/1013-fibonacci-number) |
 ## Heap (Priority Queue)
 |  |
