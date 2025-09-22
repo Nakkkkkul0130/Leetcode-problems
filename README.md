@@ -111,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0643-maximum-average-subarray-i](https://github.com/Nakkkkkul0130/Leetcode-problems/tree/master/0643-maximum-average-subarray-i) |
 | [0658-find-k-closest-elements](https://github.com/Nakkkkkul0130/Leetcode-problems/tree/master/0658-find-k-closest-elements) |
 | [0713-subarray-product-less-than-k](https://github.com/Nakkkkkul0130/Leetcode-problems/tree/master/0713-subarray-product-less-than-k) |
+| [0718-maximum-length-of-repeated-subarray](https://github.com/Nakkkkkul0130/Leetcode-problems/tree/master/0718-maximum-length-of-repeated-subarray) |
 | [0733-flood-fill](https://github.com/Nakkkkkul0130/Leetcode-problems/tree/master/0733-flood-fill) |
 | [0739-daily-temperatures](https://github.com/Nakkkkkul0130/Leetcode-problems/tree/master/0739-daily-temperatures) |
 | [0898-transpose-matrix](https://github.com/Nakkkkkul0130/Leetcode-problems/tree/master/0898-transpose-matrix) |
@@ -352,6 +353,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0279-perfect-squares](https://github.com/Nakkkkkul0130/Leetcode-problems/tree/master/0279-perfect-squares) |
 | [0300-longest-increasing-subsequence](https://github.com/Nakkkkkul0130/Leetcode-problems/tree/master/0300-longest-increasing-subsequence) |
 | [0322-coin-change](https://github.com/Nakkkkkul0130/Leetcode-problems/tree/master/0322-coin-change) |
+| [0718-maximum-length-of-repeated-subarray](https://github.com/Nakkkkkul0130/Leetcode-problems/tree/master/0718-maximum-length-of-repeated-subarray) |
 | [1013-fibonacci-number](https://github.com/Nakkkkkul0130/Leetcode-problems/tree/master/1013-fibonacci-number) |
 | [1250-longest-common-subsequence](https://github.com/Nakkkkkul0130/Leetcode-problems/tree/master/1250-longest-common-subsequence) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Nakkkkkul0130/Leetcode-problems/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
@@ -451,6 +453,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Nakkkkkul0130/Leetcode-problems/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0658-find-k-closest-elements](https://github.com/Nakkkkkul0130/Leetcode-problems/tree/master/0658-find-k-closest-elements) |
 | [0713-subarray-product-less-than-k](https://github.com/Nakkkkkul0130/Leetcode-problems/tree/master/0713-subarray-product-less-than-k) |
+| [0718-maximum-length-of-repeated-subarray](https://github.com/Nakkkkkul0130/Leetcode-problems/tree/master/0718-maximum-length-of-repeated-subarray) |
 | [1335-maximum-candies-allocated-to-k-children](https://github.com/Nakkkkkul0130/Leetcode-problems/tree/master/1335-maximum-candies-allocated-to-k-children) |
 | [1851-maximum-number-of-events-that-can-be-attended-ii](https://github.com/Nakkkkkul0130/Leetcode-problems/tree/master/1851-maximum-number-of-events-that-can-be-attended-ii) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/Nakkkkkul0130/Leetcode-problems/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
@@ -641,6 +644,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0643-maximum-average-subarray-i](https://github.com/Nakkkkkul0130/Leetcode-problems/tree/master/0643-maximum-average-subarray-i) |
 | [0658-find-k-closest-elements](https://github.com/Nakkkkkul0130/Leetcode-problems/tree/master/0658-find-k-closest-elements) |
 | [0713-subarray-product-less-than-k](https://github.com/Nakkkkkul0130/Leetcode-problems/tree/master/0713-subarray-product-less-than-k) |
+| [0718-maximum-length-of-repeated-subarray](https://github.com/Nakkkkkul0130/Leetcode-problems/tree/master/0718-maximum-length-of-repeated-subarray) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/Nakkkkkul0130/Leetcode-problems/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Nakkkkkul0130/Leetcode-problems/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [2463-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/Nakkkkkul0130/Leetcode-problems/tree/master/2463-minimum-recolors-to-get-k-consecutive-black-blocks) |
@@ -849,4 +853,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0459-repeated-substring-pattern](https://github.com/Nakkkkkul0130/Leetcode-problems/tree/master/0459-repeated-substring-pattern) |
+## Rolling Hash
+|  |
+| ------- |
+| [0718-maximum-length-of-repeated-subarray](https://github.com/Nakkkkkul0130/Leetcode-problems/tree/master/0718-maximum-length-of-repeated-subarray) |
+## Hash Function
+|  |
+| ------- |
+| [0718-maximum-length-of-repeated-subarray](https://github.com/Nakkkkkul0130/Leetcode-problems/tree/master/0718-maximum-length-of-repeated-subarray) |
 <!---LeetCode Topics End-->
