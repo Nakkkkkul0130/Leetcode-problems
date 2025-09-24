@@ -130,6 +130,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Nakkkkkul0130/Leetcode-problems/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [1781-check-if-two-string-arrays-are-equivalent](https://github.com/Nakkkkkul0130/Leetcode-problems/tree/master/1781-check-if-two-string-arrays-are-equivalent) |
 | [1851-maximum-number-of-events-that-can-be-attended-ii](https://github.com/Nakkkkkul0130/Leetcode-problems/tree/master/1851-maximum-number-of-events-that-can-be-attended-ii) |
+| [1966-frequency-of-the-most-frequent-element](https://github.com/Nakkkkkul0130/Leetcode-problems/tree/master/1966-frequency-of-the-most-frequent-element) |
 | [1995-finding-pairs-with-a-certain-sum](https://github.com/Nakkkkkul0130/Leetcode-problems/tree/master/1995-finding-pairs-with-a-certain-sum) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/Nakkkkkul0130/Leetcode-problems/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 | [2048-build-array-from-permutation](https://github.com/Nakkkkkul0130/Leetcode-problems/tree/master/2048-build-array-from-permutation) |
@@ -222,6 +223,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/Nakkkkkul0130/Leetcode-problems/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 | [1574-maximum-product-of-two-elements-in-an-array](https://github.com/Nakkkkkul0130/Leetcode-problems/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
 | [1851-maximum-number-of-events-that-can-be-attended-ii](https://github.com/Nakkkkkul0130/Leetcode-problems/tree/master/1851-maximum-number-of-events-that-can-be-attended-ii) |
+| [1966-frequency-of-the-most-frequent-element](https://github.com/Nakkkkkul0130/Leetcode-problems/tree/master/1966-frequency-of-the-most-frequent-element) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/Nakkkkkul0130/Leetcode-problems/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [2210-find-target-indices-after-sorting-array](https://github.com/Nakkkkkul0130/Leetcode-problems/tree/master/2210-find-target-indices-after-sorting-array) |
 | [2215-finding-3-digit-even-numbers](https://github.com/Nakkkkkul0130/Leetcode-problems/tree/master/2215-finding-3-digit-even-numbers) |
@@ -378,6 +380,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0982-minimum-increment-to-make-array-unique](https://github.com/Nakkkkkul0130/Leetcode-problems/tree/master/0982-minimum-increment-to-make-array-unique) |
 | [1285-balance-a-binary-search-tree](https://github.com/Nakkkkkul0130/Leetcode-problems/tree/master/1285-balance-a-binary-search-tree) |
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/Nakkkkkul0130/Leetcode-problems/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
+| [1966-frequency-of-the-most-frequent-element](https://github.com/Nakkkkkul0130/Leetcode-problems/tree/master/1966-frequency-of-the-most-frequent-element) |
 | [2387-partition-array-such-that-maximum-difference-is-k](https://github.com/Nakkkkkul0130/Leetcode-problems/tree/master/2387-partition-array-such-that-maximum-difference-is-k) |
 | [2681-put-marbles-in-bags](https://github.com/Nakkkkkul0130/Leetcode-problems/tree/master/2681-put-marbles-in-bags) |
 | [3001-apply-operations-to-maximize-score](https://github.com/Nakkkkkul0130/Leetcode-problems/tree/master/3001-apply-operations-to-maximize-score) |
@@ -461,6 +464,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0718-maximum-length-of-repeated-subarray](https://github.com/Nakkkkkul0130/Leetcode-problems/tree/master/0718-maximum-length-of-repeated-subarray) |
 | [1335-maximum-candies-allocated-to-k-children](https://github.com/Nakkkkkul0130/Leetcode-problems/tree/master/1335-maximum-candies-allocated-to-k-children) |
 | [1851-maximum-number-of-events-that-can-be-attended-ii](https://github.com/Nakkkkkul0130/Leetcode-problems/tree/master/1851-maximum-number-of-events-that-can-be-attended-ii) |
+| [1966-frequency-of-the-most-frequent-element](https://github.com/Nakkkkkul0130/Leetcode-problems/tree/master/1966-frequency-of-the-most-frequent-element) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/Nakkkkkul0130/Leetcode-problems/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 | [2210-find-target-indices-after-sorting-array](https://github.com/Nakkkkkul0130/Leetcode-problems/tree/master/2210-find-target-indices-after-sorting-array) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/Nakkkkkul0130/Leetcode-problems/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
@@ -652,6 +656,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0718-maximum-length-of-repeated-subarray](https://github.com/Nakkkkkul0130/Leetcode-problems/tree/master/0718-maximum-length-of-repeated-subarray) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/Nakkkkkul0130/Leetcode-problems/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Nakkkkkul0130/Leetcode-problems/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
+| [1966-frequency-of-the-most-frequent-element](https://github.com/Nakkkkkul0130/Leetcode-problems/tree/master/1966-frequency-of-the-most-frequent-element) |
 | [2463-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/Nakkkkkul0130/Leetcode-problems/tree/master/2463-minimum-recolors-to-get-k-consecutive-black-blocks) |
 | [2478-longest-nice-subarray](https://github.com/Nakkkkkul0130/Leetcode-problems/tree/master/2478-longest-nice-subarray) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/Nakkkkkul0130/Leetcode-problems/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
@@ -722,6 +727,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/Nakkkkkul0130/Leetcode-problems/tree/master/0560-subarray-sum-equals-k) |
 | [0713-subarray-product-less-than-k](https://github.com/Nakkkkkul0130/Leetcode-problems/tree/master/0713-subarray-product-less-than-k) |
 | [1016-subarray-sums-divisible-by-k](https://github.com/Nakkkkkul0130/Leetcode-problems/tree/master/1016-subarray-sums-divisible-by-k) |
+| [1966-frequency-of-the-most-frequent-element](https://github.com/Nakkkkkul0130/Leetcode-problems/tree/master/1966-frequency-of-the-most-frequent-element) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/Nakkkkkul0130/Leetcode-problems/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/Nakkkkkul0130/Leetcode-problems/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 | [3618-find-the-original-typed-string-ii](https://github.com/Nakkkkkul0130/Leetcode-problems/tree/master/3618-find-the-original-typed-string-ii) |
