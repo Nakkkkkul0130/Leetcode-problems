@@ -107,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0350-intersection-of-two-arrays-ii](https://github.com/Nakkkkkul0130/Leetcode-problems/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Nakkkkkul0130/Leetcode-problems/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0485-max-consecutive-ones](https://github.com/Nakkkkkul0130/Leetcode-problems/tree/master/0485-max-consecutive-ones) |
+| [0493-reverse-pairs](https://github.com/Nakkkkkul0130/Leetcode-problems/tree/master/0493-reverse-pairs) |
 | [0496-next-greater-element-i](https://github.com/Nakkkkkul0130/Leetcode-problems/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/Nakkkkkul0130/Leetcode-problems/tree/master/0503-next-greater-element-ii) |
 | [0523-continuous-subarray-sum](https://github.com/Nakkkkkul0130/Leetcode-problems/tree/master/0523-continuous-subarray-sum) |
@@ -462,6 +463,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0300-longest-increasing-subsequence](https://github.com/Nakkkkkul0130/Leetcode-problems/tree/master/0300-longest-increasing-subsequence) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Nakkkkkul0130/Leetcode-problems/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Nakkkkkul0130/Leetcode-problems/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
+| [0493-reverse-pairs](https://github.com/Nakkkkkul0130/Leetcode-problems/tree/master/0493-reverse-pairs) |
 | [0658-find-k-closest-elements](https://github.com/Nakkkkkul0130/Leetcode-problems/tree/master/0658-find-k-closest-elements) |
 | [0713-subarray-product-less-than-k](https://github.com/Nakkkkkul0130/Leetcode-problems/tree/master/0713-subarray-product-less-than-k) |
 | [0718-maximum-length-of-repeated-subarray](https://github.com/Nakkkkkul0130/Leetcode-problems/tree/master/0718-maximum-length-of-repeated-subarray) |
@@ -698,6 +700,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0215-kth-largest-element-in-an-array](https://github.com/Nakkkkkul0130/Leetcode-problems/tree/master/0215-kth-largest-element-in-an-array) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Nakkkkkul0130/Leetcode-problems/tree/master/0240-search-a-2d-matrix-ii) |
 | [0347-top-k-frequent-elements](https://github.com/Nakkkkkul0130/Leetcode-problems/tree/master/0347-top-k-frequent-elements) |
+| [0493-reverse-pairs](https://github.com/Nakkkkkul0130/Leetcode-problems/tree/master/0493-reverse-pairs) |
 | [1285-balance-a-binary-search-tree](https://github.com/Nakkkkkul0130/Leetcode-problems/tree/master/1285-balance-a-binary-search-tree) |
 ## Bit Manipulation
 |  |
@@ -858,6 +861,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/Nakkkkkul0130/Leetcode-problems/tree/master/0023-merge-k-sorted-lists) |
 | [0148-sort-list](https://github.com/Nakkkkkul0130/Leetcode-problems/tree/master/0148-sort-list) |
+| [0493-reverse-pairs](https://github.com/Nakkkkkul0130/Leetcode-problems/tree/master/0493-reverse-pairs) |
 ## Bucket Sort
 |  |
 | ------- |
@@ -878,4 +882,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0718-maximum-length-of-repeated-subarray](https://github.com/Nakkkkkul0130/Leetcode-problems/tree/master/0718-maximum-length-of-repeated-subarray) |
+## Binary Indexed Tree
+|  |
+| ------- |
+| [0493-reverse-pairs](https://github.com/Nakkkkkul0130/Leetcode-problems/tree/master/0493-reverse-pairs) |
+## Segment Tree
+|  |
+| ------- |
+| [0493-reverse-pairs](https://github.com/Nakkkkkul0130/Leetcode-problems/tree/master/0493-reverse-pairs) |
+## Ordered Set
+|  |
+| ------- |
+| [0493-reverse-pairs](https://github.com/Nakkkkkul0130/Leetcode-problems/tree/master/0493-reverse-pairs) |
 <!---LeetCode Topics End-->
