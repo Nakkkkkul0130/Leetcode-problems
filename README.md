@@ -301,6 +301,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/Nakkkkkul0130/Leetcode-problems/tree/master/0242-valid-anagram) |
 | [0257-binary-tree-paths](https://github.com/Nakkkkkul0130/Leetcode-problems/tree/master/0257-binary-tree-paths) |
 | [0443-string-compression](https://github.com/Nakkkkkul0130/Leetcode-problems/tree/master/0443-string-compression) |
+| [0449-serialize-and-deserialize-bst](https://github.com/Nakkkkkul0130/Leetcode-problems/tree/master/0449-serialize-and-deserialize-bst) |
 | [0459-repeated-substring-pattern](https://github.com/Nakkkkkul0130/Leetcode-problems/tree/master/0459-repeated-substring-pattern) |
 | [0768-partition-labels](https://github.com/Nakkkkkul0130/Leetcode-problems/tree/master/0768-partition-labels) |
 | [1250-longest-common-subsequence](https://github.com/Nakkkkkul0130/Leetcode-problems/tree/master/1250-longest-common-subsequence) |
@@ -528,6 +529,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Nakkkkkul0130/Leetcode-problems/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0257-binary-tree-paths](https://github.com/Nakkkkkul0130/Leetcode-problems/tree/master/0257-binary-tree-paths) |
 | [0404-sum-of-left-leaves](https://github.com/Nakkkkkul0130/Leetcode-problems/tree/master/0404-sum-of-left-leaves) |
+| [0449-serialize-and-deserialize-bst](https://github.com/Nakkkkkul0130/Leetcode-problems/tree/master/0449-serialize-and-deserialize-bst) |
 | [0450-delete-node-in-a-bst](https://github.com/Nakkkkkul0130/Leetcode-problems/tree/master/0450-delete-node-in-a-bst) |
 | [0501-find-mode-in-binary-search-tree](https://github.com/Nakkkkkul0130/Leetcode-problems/tree/master/0501-find-mode-in-binary-search-tree) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/Nakkkkkul0130/Leetcode-problems/tree/master/0515-find-largest-value-in-each-tree-row) |
@@ -549,6 +551,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0173-binary-search-tree-iterator](https://github.com/Nakkkkkul0130/Leetcode-problems/tree/master/0173-binary-search-tree-iterator) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/Nakkkkkul0130/Leetcode-problems/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Nakkkkkul0130/Leetcode-problems/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
+| [0449-serialize-and-deserialize-bst](https://github.com/Nakkkkkul0130/Leetcode-problems/tree/master/0449-serialize-and-deserialize-bst) |
 | [0450-delete-node-in-a-bst](https://github.com/Nakkkkkul0130/Leetcode-problems/tree/master/0450-delete-node-in-a-bst) |
 | [0501-find-mode-in-binary-search-tree](https://github.com/Nakkkkkul0130/Leetcode-problems/tree/master/0501-find-mode-in-binary-search-tree) |
 | [0783-search-in-a-binary-search-tree](https://github.com/Nakkkkkul0130/Leetcode-problems/tree/master/0783-search-in-a-binary-search-tree) |
@@ -585,6 +588,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Nakkkkkul0130/Leetcode-problems/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0257-binary-tree-paths](https://github.com/Nakkkkkul0130/Leetcode-problems/tree/master/0257-binary-tree-paths) |
 | [0404-sum-of-left-leaves](https://github.com/Nakkkkkul0130/Leetcode-problems/tree/master/0404-sum-of-left-leaves) |
+| [0449-serialize-and-deserialize-bst](https://github.com/Nakkkkkul0130/Leetcode-problems/tree/master/0449-serialize-and-deserialize-bst) |
 | [0450-delete-node-in-a-bst](https://github.com/Nakkkkkul0130/Leetcode-problems/tree/master/0450-delete-node-in-a-bst) |
 | [0501-find-mode-in-binary-search-tree](https://github.com/Nakkkkkul0130/Leetcode-problems/tree/master/0501-find-mode-in-binary-search-tree) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/Nakkkkkul0130/Leetcode-problems/tree/master/0515-find-largest-value-in-each-tree-row) |
@@ -620,6 +624,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Nakkkkkul0130/Leetcode-problems/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0257-binary-tree-paths](https://github.com/Nakkkkkul0130/Leetcode-problems/tree/master/0257-binary-tree-paths) |
 | [0404-sum-of-left-leaves](https://github.com/Nakkkkkul0130/Leetcode-problems/tree/master/0404-sum-of-left-leaves) |
+| [0449-serialize-and-deserialize-bst](https://github.com/Nakkkkkul0130/Leetcode-problems/tree/master/0449-serialize-and-deserialize-bst) |
 | [0501-find-mode-in-binary-search-tree](https://github.com/Nakkkkkul0130/Leetcode-problems/tree/master/0501-find-mode-in-binary-search-tree) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/Nakkkkkul0130/Leetcode-problems/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0543-diameter-of-binary-tree](https://github.com/Nakkkkkul0130/Leetcode-problems/tree/master/0543-diameter-of-binary-tree) |
@@ -647,6 +652,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0279-perfect-squares](https://github.com/Nakkkkkul0130/Leetcode-problems/tree/master/0279-perfect-squares) |
 | [0322-coin-change](https://github.com/Nakkkkkul0130/Leetcode-problems/tree/master/0322-coin-change) |
 | [0404-sum-of-left-leaves](https://github.com/Nakkkkkul0130/Leetcode-problems/tree/master/0404-sum-of-left-leaves) |
+| [0449-serialize-and-deserialize-bst](https://github.com/Nakkkkkul0130/Leetcode-problems/tree/master/0449-serialize-and-deserialize-bst) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/Nakkkkkul0130/Leetcode-problems/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0547-number-of-provinces](https://github.com/Nakkkkkul0130/Leetcode-problems/tree/master/0547-number-of-provinces) |
 | [0733-flood-fill](https://github.com/Nakkkkkul0130/Leetcode-problems/tree/master/0733-flood-fill) |
@@ -826,6 +832,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0173-binary-search-tree-iterator](https://github.com/Nakkkkkul0130/Leetcode-problems/tree/master/0173-binary-search-tree-iterator) |
 | [0225-implement-stack-using-queues](https://github.com/Nakkkkkul0130/Leetcode-problems/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/Nakkkkkul0130/Leetcode-problems/tree/master/0232-implement-queue-using-stacks) |
+| [0449-serialize-and-deserialize-bst](https://github.com/Nakkkkkul0130/Leetcode-problems/tree/master/0449-serialize-and-deserialize-bst) |
 | [0838-design-linked-list](https://github.com/Nakkkkkul0130/Leetcode-problems/tree/master/0838-design-linked-list) |
 | [1995-finding-pairs-with-a-certain-sum](https://github.com/Nakkkkkul0130/Leetcode-problems/tree/master/1995-finding-pairs-with-a-certain-sum) |
 ## Backtracking
