@@ -763,6 +763,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0596-classes-more-than-5-students](https://github.com/Nakkkkkul0130/Leetcode-problems/tree/master/0596-classes-more-than-5-students) |
 | [1827-invalid-tweets](https://github.com/Nakkkkkul0130/Leetcode-problems/tree/master/1827-invalid-tweets) |
 | [1877-find-followers-count](https://github.com/Nakkkkkul0130/Leetcode-problems/tree/master/1877-find-followers-count) |
+| [1908-recyclable-and-low-fat-products](https://github.com/Nakkkkkul0130/Leetcode-problems/tree/master/1908-recyclable-and-low-fat-products) |
 ## Union Find
 |  |
 | ------- |
