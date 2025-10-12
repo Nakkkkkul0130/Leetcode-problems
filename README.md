@@ -106,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/Nakkkkkul0130/Leetcode-problems/tree/master/0347-top-k-frequent-elements) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Nakkkkkul0130/Leetcode-problems/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Nakkkkkul0130/Leetcode-problems/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
+| [0396-rotate-function](https://github.com/Nakkkkkul0130/Leetcode-problems/tree/master/0396-rotate-function) |
 | [0485-max-consecutive-ones](https://github.com/Nakkkkkul0130/Leetcode-problems/tree/master/0485-max-consecutive-ones) |
 | [0493-reverse-pairs](https://github.com/Nakkkkkul0130/Leetcode-problems/tree/master/0493-reverse-pairs) |
 | [0496-next-greater-element-i](https://github.com/Nakkkkkul0130/Leetcode-problems/tree/master/0496-next-greater-element-i) |
@@ -365,6 +366,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0279-perfect-squares](https://github.com/Nakkkkkul0130/Leetcode-problems/tree/master/0279-perfect-squares) |
 | [0300-longest-increasing-subsequence](https://github.com/Nakkkkkul0130/Leetcode-problems/tree/master/0300-longest-increasing-subsequence) |
 | [0322-coin-change](https://github.com/Nakkkkkul0130/Leetcode-problems/tree/master/0322-coin-change) |
+| [0396-rotate-function](https://github.com/Nakkkkkul0130/Leetcode-problems/tree/master/0396-rotate-function) |
 | [0718-maximum-length-of-repeated-subarray](https://github.com/Nakkkkkul0130/Leetcode-problems/tree/master/0718-maximum-length-of-repeated-subarray) |
 | [1013-fibonacci-number](https://github.com/Nakkkkkul0130/Leetcode-problems/tree/master/1013-fibonacci-number) |
 | [1250-longest-common-subsequence](https://github.com/Nakkkkkul0130/Leetcode-problems/tree/master/1250-longest-common-subsequence) |
@@ -410,6 +412,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0326-power-of-three](https://github.com/Nakkkkkul0130/Leetcode-problems/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/Nakkkkkul0130/Leetcode-problems/tree/master/0342-power-of-four) |
 | [0371-sum-of-two-integers](https://github.com/Nakkkkkul0130/Leetcode-problems/tree/master/0371-sum-of-two-integers) |
+| [0396-rotate-function](https://github.com/Nakkkkkul0130/Leetcode-problems/tree/master/0396-rotate-function) |
 | [0523-continuous-subarray-sum](https://github.com/Nakkkkkul0130/Leetcode-problems/tree/master/0523-continuous-subarray-sum) |
 | [1013-fibonacci-number](https://github.com/Nakkkkkul0130/Leetcode-problems/tree/master/1013-fibonacci-number) |
 | [1889-check-if-number-is-a-sum-of-powers-of-three](https://github.com/Nakkkkkul0130/Leetcode-problems/tree/master/1889-check-if-number-is-a-sum-of-powers-of-three) |
