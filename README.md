@@ -73,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0073-set-matrix-zeroes](https://github.com/Nakkkkkul0130/Leetcode-problems/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/Nakkkkkul0130/Leetcode-problems/tree/master/0074-search-a-2d-matrix) |
 | [0078-subsets](https://github.com/Nakkkkkul0130/Leetcode-problems/tree/master/0078-subsets) |
+| [0079-word-search](https://github.com/Nakkkkkul0130/Leetcode-problems/tree/master/0079-word-search) |
 | [0084-largest-rectangle-in-histogram](https://github.com/Nakkkkkul0130/Leetcode-problems/tree/master/0084-largest-rectangle-in-histogram) |
 | [0090-subsets-ii](https://github.com/Nakkkkkul0130/Leetcode-problems/tree/master/0090-subsets-ii) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Nakkkkkul0130/Leetcode-problems/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
@@ -299,6 +300,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0067-add-binary](https://github.com/Nakkkkkul0130/Leetcode-problems/tree/master/0067-add-binary) |
 | [0071-simplify-path](https://github.com/Nakkkkkul0130/Leetcode-problems/tree/master/0071-simplify-path) |
 | [0076-minimum-window-substring](https://github.com/Nakkkkkul0130/Leetcode-problems/tree/master/0076-minimum-window-substring) |
+| [0079-word-search](https://github.com/Nakkkkkul0130/Leetcode-problems/tree/master/0079-word-search) |
 | [0168-excel-sheet-column-title](https://github.com/Nakkkkkul0130/Leetcode-problems/tree/master/0168-excel-sheet-column-title) |
 | [0171-excel-sheet-column-number](https://github.com/Nakkkkkul0130/Leetcode-problems/tree/master/0171-excel-sheet-column-number) |
 | [0179-largest-number](https://github.com/Nakkkkkul0130/Leetcode-problems/tree/master/0179-largest-number) |
@@ -613,6 +615,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 |  |
 | ------- |
+| [0079-word-search](https://github.com/Nakkkkkul0130/Leetcode-problems/tree/master/0079-word-search) |
 | [0094-binary-tree-inorder-traversal](https://github.com/Nakkkkkul0130/Leetcode-problems/tree/master/0094-binary-tree-inorder-traversal) |
 | [0098-validate-binary-search-tree](https://github.com/Nakkkkkul0130/Leetcode-problems/tree/master/0098-validate-binary-search-tree) |
 | [0100-same-tree](https://github.com/Nakkkkkul0130/Leetcode-problems/tree/master/0100-same-tree) |
@@ -702,6 +705,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0064-minimum-path-sum](https://github.com/Nakkkkkul0130/Leetcode-problems/tree/master/0064-minimum-path-sum) |
 | [0073-set-matrix-zeroes](https://github.com/Nakkkkkul0130/Leetcode-problems/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/Nakkkkkul0130/Leetcode-problems/tree/master/0074-search-a-2d-matrix) |
+| [0079-word-search](https://github.com/Nakkkkkul0130/Leetcode-problems/tree/master/0079-word-search) |
 | [0200-number-of-islands](https://github.com/Nakkkkkul0130/Leetcode-problems/tree/master/0200-number-of-islands) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Nakkkkkul0130/Leetcode-problems/tree/master/0240-search-a-2d-matrix-ii) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Nakkkkkul0130/Leetcode-problems/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
@@ -864,6 +868,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0040-combination-sum-ii](https://github.com/Nakkkkkul0130/Leetcode-problems/tree/master/0040-combination-sum-ii) |
 | [0051-n-queens](https://github.com/Nakkkkkul0130/Leetcode-problems/tree/master/0051-n-queens) |
 | [0078-subsets](https://github.com/Nakkkkkul0130/Leetcode-problems/tree/master/0078-subsets) |
+| [0079-word-search](https://github.com/Nakkkkkul0130/Leetcode-problems/tree/master/0079-word-search) |
 | [0090-subsets-ii](https://github.com/Nakkkkkul0130/Leetcode-problems/tree/master/0090-subsets-ii) |
 | [0095-unique-binary-search-trees-ii](https://github.com/Nakkkkkul0130/Leetcode-problems/tree/master/0095-unique-binary-search-trees-ii) |
 | [0113-path-sum-ii](https://github.com/Nakkkkkul0130/Leetcode-problems/tree/master/0113-path-sum-ii) |
