@@ -437,6 +437,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0396-rotate-function](https://github.com/Nakkkkkul0130/Leetcode-problems/tree/master/0396-rotate-function) |
 | [0523-continuous-subarray-sum](https://github.com/Nakkkkkul0130/Leetcode-problems/tree/master/0523-continuous-subarray-sum) |
 | [1013-fibonacci-number](https://github.com/Nakkkkkul0130/Leetcode-problems/tree/master/1013-fibonacci-number) |
+| [1523-count-odd-numbers-in-an-interval-range](https://github.com/Nakkkkkul0130/Leetcode-problems/tree/master/1523-count-odd-numbers-in-an-interval-range) |
 | [1817-calculate-money-in-leetcode-bank](https://github.com/Nakkkkkul0130/Leetcode-problems/tree/master/1817-calculate-money-in-leetcode-bank) |
 | [1889-check-if-number-is-a-sum-of-powers-of-three](https://github.com/Nakkkkkul0130/Leetcode-problems/tree/master/1889-check-if-number-is-a-sum-of-powers-of-three) |
 | [2106-find-greatest-common-divisor-of-array](https://github.com/Nakkkkkul0130/Leetcode-problems/tree/master/2106-find-greatest-common-divisor-of-array) |
