@@ -833,6 +833,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1251-average-selling-price](https://github.com/Nakkkkkul0130/Leetcode-problems/tree/master/1251-average-selling-price) |
 | [1258-article-views-i](https://github.com/Nakkkkkul0130/Leetcode-problems/tree/master/1258-article-views-i) |
 | [1509-replace-employee-id-with-the-unique-identifier](https://github.com/Nakkkkkul0130/Leetcode-problems/tree/master/1509-replace-employee-id-with-the-unique-identifier) |
+| [1581-customer-who-visited-but-did-not-make-any-transactions](https://github.com/Nakkkkkul0130/Leetcode-problems/tree/master/1581-customer-who-visited-but-did-not-make-any-transactions) |
 | [1633-percentage-of-users-attended-a-contest](https://github.com/Nakkkkkul0130/Leetcode-problems/tree/master/1633-percentage-of-users-attended-a-contest) |
 | [1724-customer-who-visited-but-did-not-make-any-transactions](https://github.com/Nakkkkkul0130/Leetcode-problems/tree/master/1724-customer-who-visited-but-did-not-make-any-transactions) |
 | [1827-invalid-tweets](https://github.com/Nakkkkkul0130/Leetcode-problems/tree/master/1827-invalid-tweets) |
