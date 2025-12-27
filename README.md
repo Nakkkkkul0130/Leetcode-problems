@@ -845,6 +845,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1827-invalid-tweets](https://github.com/Nakkkkkul0130/Leetcode-problems/tree/master/1827-invalid-tweets) |
 | [1877-find-followers-count](https://github.com/Nakkkkkul0130/Leetcode-problems/tree/master/1877-find-followers-count) |
 | [1908-recyclable-and-low-fat-products](https://github.com/Nakkkkkul0130/Leetcode-problems/tree/master/1908-recyclable-and-low-fat-products) |
+| [1934-confirmation-rate](https://github.com/Nakkkkkul0130/Leetcode-problems/tree/master/1934-confirmation-rate) |
 | [1978-employees-whose-manager-left-the-company](https://github.com/Nakkkkkul0130/Leetcode-problems/tree/master/1978-employees-whose-manager-left-the-company) |
 ## Union Find
 |  |
