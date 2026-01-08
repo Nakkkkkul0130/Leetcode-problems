@@ -137,6 +137,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1293-three-consecutive-odds](https://github.com/Nakkkkkul0130/Leetcode-problems/tree/master/1293-three-consecutive-odds) |
 | [1335-maximum-candies-allocated-to-k-children](https://github.com/Nakkkkkul0130/Leetcode-problems/tree/master/1335-maximum-candies-allocated-to-k-children) |
 | [1390-four-divisors](https://github.com/Nakkkkkul0130/Leetcode-problems/tree/master/1390-four-divisors) |
+| [1458-max-dot-product-of-two-subsequences](https://github.com/Nakkkkkul0130/Leetcode-problems/tree/master/1458-max-dot-product-of-two-subsequences) |
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/Nakkkkkul0130/Leetcode-problems/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/Nakkkkkul0130/Leetcode-problems/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1574-maximum-product-of-two-elements-in-an-array](https://github.com/Nakkkkkul0130/Leetcode-problems/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
@@ -415,6 +416,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1013-fibonacci-number](https://github.com/Nakkkkkul0130/Leetcode-problems/tree/master/1013-fibonacci-number) |
 | [1250-longest-common-subsequence](https://github.com/Nakkkkkul0130/Leetcode-problems/tree/master/1250-longest-common-subsequence) |
 | [1411-number-of-ways-to-paint-n-3-grid](https://github.com/Nakkkkkul0130/Leetcode-problems/tree/master/1411-number-of-ways-to-paint-n-3-grid) |
+| [1458-max-dot-product-of-two-subsequences](https://github.com/Nakkkkkul0130/Leetcode-problems/tree/master/1458-max-dot-product-of-two-subsequences) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Nakkkkkul0130/Leetcode-problems/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [1851-maximum-number-of-events-that-can-be-attended-ii](https://github.com/Nakkkkkul0130/Leetcode-problems/tree/master/1851-maximum-number-of-events-that-can-be-attended-ii) |
 | [2090-number-of-ways-to-arrive-at-destination](https://github.com/Nakkkkkul0130/Leetcode-problems/tree/master/2090-number-of-ways-to-arrive-at-destination) |
