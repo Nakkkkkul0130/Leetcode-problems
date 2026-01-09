@@ -295,6 +295,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0523-continuous-subarray-sum](https://github.com/Nakkkkkul0130/Leetcode-problems/tree/master/0523-continuous-subarray-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/Nakkkkkul0130/Leetcode-problems/tree/master/0560-subarray-sum-equals-k) |
 | [0768-partition-labels](https://github.com/Nakkkkkul0130/Leetcode-problems/tree/master/0768-partition-labels) |
+| [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/Nakkkkkul0130/Leetcode-problems/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 | [0940-fruit-into-baskets](https://github.com/Nakkkkkul0130/Leetcode-problems/tree/master/0940-fruit-into-baskets) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/Nakkkkkul0130/Leetcode-problems/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [1016-subarray-sums-divisible-by-k](https://github.com/Nakkkkkul0130/Leetcode-problems/tree/master/1016-subarray-sums-divisible-by-k) |
@@ -604,6 +605,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0543-diameter-of-binary-tree](https://github.com/Nakkkkkul0130/Leetcode-problems/tree/master/0543-diameter-of-binary-tree) |
 | [0783-search-in-a-binary-search-tree](https://github.com/Nakkkkkul0130/Leetcode-problems/tree/master/0783-search-in-a-binary-search-tree) |
 | [0784-insert-into-a-binary-search-tree](https://github.com/Nakkkkkul0130/Leetcode-problems/tree/master/0784-insert-into-a-binary-search-tree) |
+| [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/Nakkkkkul0130/Leetcode-problems/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/Nakkkkkul0130/Leetcode-problems/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/Nakkkkkul0130/Leetcode-problems/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1285-balance-a-binary-search-tree](https://github.com/Nakkkkkul0130/Leetcode-problems/tree/master/1285-balance-a-binary-search-tree) |
@@ -666,6 +668,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0543-diameter-of-binary-tree](https://github.com/Nakkkkkul0130/Leetcode-problems/tree/master/0543-diameter-of-binary-tree) |
 | [0783-search-in-a-binary-search-tree](https://github.com/Nakkkkkul0130/Leetcode-problems/tree/master/0783-search-in-a-binary-search-tree) |
 | [0784-insert-into-a-binary-search-tree](https://github.com/Nakkkkkul0130/Leetcode-problems/tree/master/0784-insert-into-a-binary-search-tree) |
+| [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/Nakkkkkul0130/Leetcode-problems/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/Nakkkkkul0130/Leetcode-problems/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/Nakkkkkul0130/Leetcode-problems/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1285-balance-a-binary-search-tree](https://github.com/Nakkkkkul0130/Leetcode-problems/tree/master/1285-balance-a-binary-search-tree) |
@@ -705,6 +708,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0543-diameter-of-binary-tree](https://github.com/Nakkkkkul0130/Leetcode-problems/tree/master/0543-diameter-of-binary-tree) |
 | [0547-number-of-provinces](https://github.com/Nakkkkkul0130/Leetcode-problems/tree/master/0547-number-of-provinces) |
 | [0733-flood-fill](https://github.com/Nakkkkkul0130/Leetcode-problems/tree/master/0733-flood-fill) |
+| [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/Nakkkkkul0130/Leetcode-problems/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/Nakkkkkul0130/Leetcode-problems/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1285-balance-a-binary-search-tree](https://github.com/Nakkkkkul0130/Leetcode-problems/tree/master/1285-balance-a-binary-search-tree) |
 | [1339-maximum-product-of-splitted-binary-tree](https://github.com/Nakkkkkul0130/Leetcode-problems/tree/master/1339-maximum-product-of-splitted-binary-tree) |
@@ -734,6 +738,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0515-find-largest-value-in-each-tree-row](https://github.com/Nakkkkkul0130/Leetcode-problems/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0547-number-of-provinces](https://github.com/Nakkkkkul0130/Leetcode-problems/tree/master/0547-number-of-provinces) |
 | [0733-flood-fill](https://github.com/Nakkkkkul0130/Leetcode-problems/tree/master/0733-flood-fill) |
+| [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/Nakkkkkul0130/Leetcode-problems/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/Nakkkkkul0130/Leetcode-problems/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [2121-find-if-path-exists-in-graph](https://github.com/Nakkkkkul0130/Leetcode-problems/tree/master/2121-find-if-path-exists-in-graph) |
 | [2646-kth-largest-sum-in-a-binary-tree](https://github.com/Nakkkkkul0130/Leetcode-problems/tree/master/2646-kth-largest-sum-in-a-binary-tree) |
