@@ -135,6 +135,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1019-squares-of-a-sorted-array](https://github.com/Nakkkkkul0130/Leetcode-problems/tree/master/1019-squares-of-a-sorted-array) |
 | [1039-find-the-town-judge](https://github.com/Nakkkkkul0130/Leetcode-problems/tree/master/1039-find-the-town-judge) |
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/Nakkkkkul0130/Leetcode-problems/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
+| [1266-minimum-time-visiting-all-points](https://github.com/Nakkkkkul0130/Leetcode-problems/tree/master/1266-minimum-time-visiting-all-points) |
 | [1293-three-consecutive-odds](https://github.com/Nakkkkkul0130/Leetcode-problems/tree/master/1293-three-consecutive-odds) |
 | [1335-maximum-candies-allocated-to-k-children](https://github.com/Nakkkkkul0130/Leetcode-problems/tree/master/1335-maximum-candies-allocated-to-k-children) |
 | [1390-four-divisors](https://github.com/Nakkkkkul0130/Leetcode-problems/tree/master/1390-four-divisors) |
@@ -474,6 +475,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0396-rotate-function](https://github.com/Nakkkkkul0130/Leetcode-problems/tree/master/0396-rotate-function) |
 | [0523-continuous-subarray-sum](https://github.com/Nakkkkkul0130/Leetcode-problems/tree/master/0523-continuous-subarray-sum) |
 | [1013-fibonacci-number](https://github.com/Nakkkkkul0130/Leetcode-problems/tree/master/1013-fibonacci-number) |
+| [1266-minimum-time-visiting-all-points](https://github.com/Nakkkkkul0130/Leetcode-problems/tree/master/1266-minimum-time-visiting-all-points) |
 | [1390-four-divisors](https://github.com/Nakkkkkul0130/Leetcode-problems/tree/master/1390-four-divisors) |
 | [1523-count-odd-numbers-in-an-interval-range](https://github.com/Nakkkkkul0130/Leetcode-problems/tree/master/1523-count-odd-numbers-in-an-interval-range) |
 | [1817-calculate-money-in-leetcode-bank](https://github.com/Nakkkkkul0130/Leetcode-problems/tree/master/1817-calculate-money-in-leetcode-bank) |
@@ -1030,4 +1032,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0146-lru-cache](https://github.com/Nakkkkkul0130/Leetcode-problems/tree/master/0146-lru-cache) |
+## Geometry
+|  |
+| ------- |
+| [1266-minimum-time-visiting-all-points](https://github.com/Nakkkkkul0130/Leetcode-problems/tree/master/1266-minimum-time-visiting-all-points) |
 <!---LeetCode Topics End-->
