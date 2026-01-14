@@ -183,6 +183,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3429-special-array-i](https://github.com/Nakkkkkul0130/Leetcode-problems/tree/master/3429-special-array-i) |
 | [3430-count-days-without-meetings](https://github.com/Nakkkkkul0130/Leetcode-problems/tree/master/3430-count-days-without-meetings) |
 | [3453-separate-squares-i](https://github.com/Nakkkkkul0130/Leetcode-problems/tree/master/3453-separate-squares-i) |
+| [3454-separate-squares-ii](https://github.com/Nakkkkkul0130/Leetcode-problems/tree/master/3454-separate-squares-ii) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/Nakkkkkul0130/Leetcode-problems/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 | [3483-alternating-groups-ii](https://github.com/Nakkkkkul0130/Leetcode-problems/tree/master/3483-alternating-groups-ii) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/Nakkkkkul0130/Leetcode-problems/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
@@ -552,6 +553,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2665-minimum-time-to-repair-cars](https://github.com/Nakkkkkul0130/Leetcode-problems/tree/master/2665-minimum-time-to-repair-cars) |
 | [2690-house-robber-iv](https://github.com/Nakkkkkul0130/Leetcode-problems/tree/master/2690-house-robber-iv) |
 | [3453-separate-squares-i](https://github.com/Nakkkkkul0130/Leetcode-problems/tree/master/3453-separate-squares-i) |
+| [3454-separate-squares-ii](https://github.com/Nakkkkkul0130/Leetcode-problems/tree/master/3454-separate-squares-ii) |
 | [3643-zero-array-transformation-ii](https://github.com/Nakkkkkul0130/Leetcode-problems/tree/master/3643-zero-array-transformation-ii) |
 ## Simulation
 |  |
@@ -1026,6 +1028,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0493-reverse-pairs](https://github.com/Nakkkkkul0130/Leetcode-problems/tree/master/0493-reverse-pairs) |
+| [3454-separate-squares-ii](https://github.com/Nakkkkkul0130/Leetcode-problems/tree/master/3454-separate-squares-ii) |
 ## Ordered Set
 |  |
 | ------- |
@@ -1038,4 +1041,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1266-minimum-time-visiting-all-points](https://github.com/Nakkkkkul0130/Leetcode-problems/tree/master/1266-minimum-time-visiting-all-points) |
+## Line Sweep
+|  |
+| ------- |
+| [3454-separate-squares-ii](https://github.com/Nakkkkkul0130/Leetcode-problems/tree/master/3454-separate-squares-ii) |
 <!---LeetCode Topics End-->
