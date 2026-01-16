@@ -174,6 +174,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/Nakkkkkul0130/Leetcode-problems/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
 | [2888-minimum-index-of-a-valid-split](https://github.com/Nakkkkkul0130/Leetcode-problems/tree/master/2888-minimum-index-of-a-valid-split) |
 | [2943-maximize-area-of-square-hole-in-grid](https://github.com/Nakkkkkul0130/Leetcode-problems/tree/master/2943-maximize-area-of-square-hole-in-grid) |
+| [2975-maximum-square-area-by-removing-fences-from-a-field](https://github.com/Nakkkkkul0130/Leetcode-problems/tree/master/2975-maximum-square-area-by-removing-fences-from-a-field) |
 | [3001-apply-operations-to-maximize-score](https://github.com/Nakkkkkul0130/Leetcode-problems/tree/master/3001-apply-operations-to-maximize-score) |
 | [3074-apple-redistribution-into-boxes](https://github.com/Nakkkkkul0130/Leetcode-problems/tree/master/3074-apple-redistribution-into-boxes) |
 | [3227-find-missing-and-repeated-values](https://github.com/Nakkkkkul0130/Leetcode-problems/tree/master/3227-find-missing-and-repeated-values) |
@@ -315,6 +316,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2308-divide-array-into-equal-pairs](https://github.com/Nakkkkkul0130/Leetcode-problems/tree/master/2308-divide-array-into-equal-pairs) |
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/Nakkkkkul0130/Leetcode-problems/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
 | [2888-minimum-index-of-a-valid-split](https://github.com/Nakkkkkul0130/Leetcode-problems/tree/master/2888-minimum-index-of-a-valid-split) |
+| [2975-maximum-square-area-by-removing-fences-from-a-field](https://github.com/Nakkkkkul0130/Leetcode-problems/tree/master/2975-maximum-square-area-by-removing-fences-from-a-field) |
 | [3227-find-missing-and-repeated-values](https://github.com/Nakkkkkul0130/Leetcode-problems/tree/master/3227-find-missing-and-repeated-values) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/Nakkkkkul0130/Leetcode-problems/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3531-count-covered-buildings](https://github.com/Nakkkkkul0130/Leetcode-problems/tree/master/3531-count-covered-buildings) |
@@ -979,6 +981,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2215-finding-3-digit-even-numbers](https://github.com/Nakkkkkul0130/Leetcode-problems/tree/master/2215-finding-3-digit-even-numbers) |
+| [2975-maximum-square-area-by-removing-fences-from-a-field](https://github.com/Nakkkkkul0130/Leetcode-problems/tree/master/2975-maximum-square-area-by-removing-fences-from-a-field) |
 ## Counting Sort
 |  |
 | ------- |
