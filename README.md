@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1484-linked-list-in-binary-tree](https://github.com/Nakkkkkul0130/Leetcode-problems/tree/master/1484-linked-list-in-binary-tree) |
 | [2216-delete-the-middle-node-of-a-linked-list](https://github.com/Nakkkkkul0130/Leetcode-problems/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/Nakkkkkul0130/Leetcode-problems/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
+| [3510-minimum-pair-removal-to-sort-array-ii](https://github.com/Nakkkkkul0130/Leetcode-problems/tree/master/3510-minimum-pair-removal-to-sort-array-ii) |
 ## Recursion
 |  |
 | ------- |
@@ -195,6 +196,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/Nakkkkkul0130/Leetcode-problems/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 | [3483-alternating-groups-ii](https://github.com/Nakkkkkul0130/Leetcode-problems/tree/master/3483-alternating-groups-ii) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/Nakkkkkul0130/Leetcode-problems/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
+| [3510-minimum-pair-removal-to-sort-array-ii](https://github.com/Nakkkkkul0130/Leetcode-problems/tree/master/3510-minimum-pair-removal-to-sort-array-ii) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/Nakkkkkul0130/Leetcode-problems/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3531-count-covered-buildings](https://github.com/Nakkkkkul0130/Leetcode-problems/tree/master/3531-count-covered-buildings) |
 | [3577-count-the-number-of-computer-unlocking-permutations](https://github.com/Nakkkkkul0130/Leetcode-problems/tree/master/3577-count-the-number-of-computer-unlocking-permutations) |
@@ -327,6 +329,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3227-find-missing-and-repeated-values](https://github.com/Nakkkkkul0130/Leetcode-problems/tree/master/3227-find-missing-and-repeated-values) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/Nakkkkkul0130/Leetcode-problems/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/Nakkkkkul0130/Leetcode-problems/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
+| [3510-minimum-pair-removal-to-sort-array-ii](https://github.com/Nakkkkkul0130/Leetcode-problems/tree/master/3510-minimum-pair-removal-to-sort-array-ii) |
 | [3531-count-covered-buildings](https://github.com/Nakkkkkul0130/Leetcode-problems/tree/master/3531-count-covered-buildings) |
 | [3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii](https://github.com/Nakkkkkul0130/Leetcode-problems/tree/master/3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii) |
 | [3606-coupon-code-validator](https://github.com/Nakkkkkul0130/Leetcode-problems/tree/master/3606-coupon-code-validator) |
@@ -532,6 +535,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1574-maximum-product-of-two-elements-in-an-array](https://github.com/Nakkkkkul0130/Leetcode-problems/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
 | [2681-put-marbles-in-bags](https://github.com/Nakkkkkul0130/Leetcode-problems/tree/master/2681-put-marbles-in-bags) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/Nakkkkkul0130/Leetcode-problems/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
+| [3510-minimum-pair-removal-to-sort-array-ii](https://github.com/Nakkkkkul0130/Leetcode-problems/tree/master/3510-minimum-pair-removal-to-sort-array-ii) |
 ## Brainteaser
 |  |
 | ------- |
@@ -587,6 +591,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2551-apply-operations-to-an-array](https://github.com/Nakkkkkul0130/Leetcode-problems/tree/master/2551-apply-operations-to-an-array) |
 | [3447-clear-digits](https://github.com/Nakkkkkul0130/Leetcode-problems/tree/master/3447-clear-digits) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/Nakkkkkul0130/Leetcode-problems/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
+| [3510-minimum-pair-removal-to-sort-array-ii](https://github.com/Nakkkkkul0130/Leetcode-problems/tree/master/3510-minimum-pair-removal-to-sort-array-ii) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/Nakkkkkul0130/Leetcode-problems/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 ## Number Theory
 |  |
@@ -1057,11 +1062,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0493-reverse-pairs](https://github.com/Nakkkkkul0130/Leetcode-problems/tree/master/0493-reverse-pairs) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/Nakkkkkul0130/Leetcode-problems/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
+| [3510-minimum-pair-removal-to-sort-array-ii](https://github.com/Nakkkkkul0130/Leetcode-problems/tree/master/3510-minimum-pair-removal-to-sort-array-ii) |
 ## Doubly-Linked List
 |  |
 | ------- |
 | [0146-lru-cache](https://github.com/Nakkkkkul0130/Leetcode-problems/tree/master/0146-lru-cache) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/Nakkkkkul0130/Leetcode-problems/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
+| [3510-minimum-pair-removal-to-sort-array-ii](https://github.com/Nakkkkkul0130/Leetcode-problems/tree/master/3510-minimum-pair-removal-to-sort-array-ii) |
 ## Geometry
 |  |
 | ------- |
