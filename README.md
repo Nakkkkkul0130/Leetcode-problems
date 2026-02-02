@@ -183,6 +183,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2975-maximum-square-area-by-removing-fences-from-a-field](https://github.com/Nakkkkkul0130/Leetcode-problems/tree/master/2975-maximum-square-area-by-removing-fences-from-a-field) |
 | [2976-minimum-cost-to-convert-string-i](https://github.com/Nakkkkkul0130/Leetcode-problems/tree/master/2976-minimum-cost-to-convert-string-i) |
 | [3001-apply-operations-to-maximize-score](https://github.com/Nakkkkkul0130/Leetcode-problems/tree/master/3001-apply-operations-to-maximize-score) |
+| [3013-divide-an-array-into-subarrays-with-minimum-cost-ii](https://github.com/Nakkkkkul0130/Leetcode-problems/tree/master/3013-divide-an-array-into-subarrays-with-minimum-cost-ii) |
 | [3047-find-the-largest-area-of-square-inside-two-rectangles](https://github.com/Nakkkkkul0130/Leetcode-problems/tree/master/3047-find-the-largest-area-of-square-inside-two-rectangles) |
 | [3074-apple-redistribution-into-boxes](https://github.com/Nakkkkkul0130/Leetcode-problems/tree/master/3074-apple-redistribution-into-boxes) |
 | [3227-find-missing-and-repeated-values](https://github.com/Nakkkkkul0130/Leetcode-problems/tree/master/3227-find-missing-and-repeated-values) |
@@ -331,6 +332,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/Nakkkkkul0130/Leetcode-problems/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
 | [2888-minimum-index-of-a-valid-split](https://github.com/Nakkkkkul0130/Leetcode-problems/tree/master/2888-minimum-index-of-a-valid-split) |
 | [2975-maximum-square-area-by-removing-fences-from-a-field](https://github.com/Nakkkkkul0130/Leetcode-problems/tree/master/2975-maximum-square-area-by-removing-fences-from-a-field) |
+| [3013-divide-an-array-into-subarrays-with-minimum-cost-ii](https://github.com/Nakkkkkul0130/Leetcode-problems/tree/master/3013-divide-an-array-into-subarrays-with-minimum-cost-ii) |
 | [3227-find-missing-and-repeated-values](https://github.com/Nakkkkkul0130/Leetcode-problems/tree/master/3227-find-missing-and-repeated-values) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/Nakkkkkul0130/Leetcode-problems/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/Nakkkkkul0130/Leetcode-problems/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
@@ -540,6 +542,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/Nakkkkkul0130/Leetcode-problems/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 | [1574-maximum-product-of-two-elements-in-an-array](https://github.com/Nakkkkkul0130/Leetcode-problems/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
 | [2681-put-marbles-in-bags](https://github.com/Nakkkkkul0130/Leetcode-problems/tree/master/2681-put-marbles-in-bags) |
+| [3013-divide-an-array-into-subarrays-with-minimum-cost-ii](https://github.com/Nakkkkkul0130/Leetcode-problems/tree/master/3013-divide-an-array-into-subarrays-with-minimum-cost-ii) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/Nakkkkkul0130/Leetcode-problems/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 | [3510-minimum-pair-removal-to-sort-array-ii](https://github.com/Nakkkkkul0130/Leetcode-problems/tree/master/3510-minimum-pair-removal-to-sort-array-ii) |
 | [3650-minimum-cost-path-with-edge-reversals](https://github.com/Nakkkkkul0130/Leetcode-problems/tree/master/3650-minimum-cost-path-with-edge-reversals) |
@@ -800,6 +803,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/Nakkkkkul0130/Leetcode-problems/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2463-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/Nakkkkkul0130/Leetcode-problems/tree/master/2463-minimum-recolors-to-get-k-consecutive-black-blocks) |
 | [2478-longest-nice-subarray](https://github.com/Nakkkkkul0130/Leetcode-problems/tree/master/2478-longest-nice-subarray) |
+| [3013-divide-an-array-into-subarrays-with-minimum-cost-ii](https://github.com/Nakkkkkul0130/Leetcode-problems/tree/master/3013-divide-an-array-into-subarrays-with-minimum-cost-ii) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/Nakkkkkul0130/Leetcode-problems/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 | [3483-alternating-groups-ii](https://github.com/Nakkkkkul0130/Leetcode-problems/tree/master/3483-alternating-groups-ii) |
 | [3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii](https://github.com/Nakkkkkul0130/Leetcode-problems/tree/master/3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii) |
