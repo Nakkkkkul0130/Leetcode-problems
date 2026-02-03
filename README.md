@@ -206,6 +206,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3577-count-the-number-of-computer-unlocking-permutations](https://github.com/Nakkkkkul0130/Leetcode-problems/tree/master/3577-count-the-number-of-computer-unlocking-permutations) |
 | [3606-coupon-code-validator](https://github.com/Nakkkkkul0130/Leetcode-problems/tree/master/3606-coupon-code-validator) |
 | [3621-minimum-operations-to-make-array-values-equal-to-k](https://github.com/Nakkkkkul0130/Leetcode-problems/tree/master/3621-minimum-operations-to-make-array-values-equal-to-k) |
+| [3637-trionic-array-i](https://github.com/Nakkkkkul0130/Leetcode-problems/tree/master/3637-trionic-array-i) |
 | [3643-zero-array-transformation-ii](https://github.com/Nakkkkkul0130/Leetcode-problems/tree/master/3643-zero-array-transformation-ii) |
 | [3657-check-if-grid-can-be-cut-into-sections](https://github.com/Nakkkkkul0130/Leetcode-problems/tree/master/3657-check-if-grid-can-be-cut-into-sections) |
 ## Two Pointers
