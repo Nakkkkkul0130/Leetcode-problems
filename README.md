@@ -193,6 +193,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3315-construct-the-minimum-bitwise-array-ii](https://github.com/Nakkkkkul0130/Leetcode-problems/tree/master/3315-construct-the-minimum-bitwise-array-ii) |
 | [3321-type-of-triangle](https://github.com/Nakkkkkul0130/Leetcode-problems/tree/master/3321-type-of-triangle) |
 | [3348-minimum-cost-walk-in-weighted-graph](https://github.com/Nakkkkkul0130/Leetcode-problems/tree/master/3348-minimum-cost-walk-in-weighted-graph) |
+| [3379-transformed-array](https://github.com/Nakkkkkul0130/Leetcode-problems/tree/master/3379-transformed-array) |
 | [3429-special-array-i](https://github.com/Nakkkkkul0130/Leetcode-problems/tree/master/3429-special-array-i) |
 | [3430-count-days-without-meetings](https://github.com/Nakkkkkul0130/Leetcode-problems/tree/master/3430-count-days-without-meetings) |
 | [3453-separate-squares-i](https://github.com/Nakkkkkul0130/Leetcode-problems/tree/master/3453-separate-squares-i) |
@@ -602,6 +603,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2271-rearrange-array-elements-by-sign](https://github.com/Nakkkkkul0130/Leetcode-problems/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2288-count-operations-to-obtain-zero](https://github.com/Nakkkkkul0130/Leetcode-problems/tree/master/2288-count-operations-to-obtain-zero) |
 | [2551-apply-operations-to-an-array](https://github.com/Nakkkkkul0130/Leetcode-problems/tree/master/2551-apply-operations-to-an-array) |
+| [3379-transformed-array](https://github.com/Nakkkkkul0130/Leetcode-problems/tree/master/3379-transformed-array) |
 | [3447-clear-digits](https://github.com/Nakkkkkul0130/Leetcode-problems/tree/master/3447-clear-digits) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/Nakkkkkul0130/Leetcode-problems/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 | [3510-minimum-pair-removal-to-sort-array-ii](https://github.com/Nakkkkkul0130/Leetcode-problems/tree/master/3510-minimum-pair-removal-to-sort-array-ii) |
