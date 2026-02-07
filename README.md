@@ -378,6 +378,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0960-delete-columns-to-make-sorted-iii](https://github.com/Nakkkkkul0130/Leetcode-problems/tree/master/0960-delete-columns-to-make-sorted-iii) |
 | [1250-longest-common-subsequence](https://github.com/Nakkkkkul0130/Leetcode-problems/tree/master/1250-longest-common-subsequence) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/Nakkkkkul0130/Leetcode-problems/tree/master/1460-number-of-substrings-containing-all-three-characters) |
+| [1653-minimum-deletions-to-make-string-balanced](https://github.com/Nakkkkkul0130/Leetcode-problems/tree/master/1653-minimum-deletions-to-make-string-balanced) |
 | [1781-check-if-two-string-arrays-are-equivalent](https://github.com/Nakkkkkul0130/Leetcode-problems/tree/master/1781-check-if-two-string-arrays-are-equivalent) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/Nakkkkkul0130/Leetcode-problems/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 | [2211-count-collisions-on-a-road](https://github.com/Nakkkkkul0130/Leetcode-problems/tree/master/2211-count-collisions-on-a-road) |
@@ -416,6 +417,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0503-next-greater-element-ii](https://github.com/Nakkkkkul0130/Leetcode-problems/tree/master/0503-next-greater-element-ii) |
 | [0739-daily-temperatures](https://github.com/Nakkkkkul0130/Leetcode-problems/tree/master/0739-daily-temperatures) |
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/Nakkkkkul0130/Leetcode-problems/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
+| [1653-minimum-deletions-to-make-string-balanced](https://github.com/Nakkkkkul0130/Leetcode-problems/tree/master/1653-minimum-deletions-to-make-string-balanced) |
 | [2211-count-collisions-on-a-road](https://github.com/Nakkkkkul0130/Leetcode-problems/tree/master/2211-count-collisions-on-a-road) |
 | [3001-apply-operations-to-maximize-score](https://github.com/Nakkkkkul0130/Leetcode-problems/tree/master/3001-apply-operations-to-maximize-score) |
 | [3447-clear-digits](https://github.com/Nakkkkkul0130/Leetcode-problems/tree/master/3447-clear-digits) |
@@ -455,6 +457,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1411-number-of-ways-to-paint-n-3-grid](https://github.com/Nakkkkkul0130/Leetcode-problems/tree/master/1411-number-of-ways-to-paint-n-3-grid) |
 | [1458-max-dot-product-of-two-subsequences](https://github.com/Nakkkkkul0130/Leetcode-problems/tree/master/1458-max-dot-product-of-two-subsequences) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Nakkkkkul0130/Leetcode-problems/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
+| [1653-minimum-deletions-to-make-string-balanced](https://github.com/Nakkkkkul0130/Leetcode-problems/tree/master/1653-minimum-deletions-to-make-string-balanced) |
 | [1851-maximum-number-of-events-that-can-be-attended-ii](https://github.com/Nakkkkkul0130/Leetcode-problems/tree/master/1851-maximum-number-of-events-that-can-be-attended-ii) |
 | [2090-number-of-ways-to-arrive-at-destination](https://github.com/Nakkkkkul0130/Leetcode-problems/tree/master/2090-number-of-ways-to-arrive-at-destination) |
 | [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/Nakkkkkul0130/Leetcode-problems/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
